@@ -1,0 +1,242 @@
+[
+  {
+    "id": "barça",
+    "name": "Barça",
+    "logo": "/fc-barcelona.svg",
+    "web": "",
+    "est": "",
+    "president": "",
+    "stadium": {
+      "name": "",
+      "capacity": ""
+    },
+    "coach": "",
+    "players": [],
+    "social": []
+  },
+  {
+    "id": "besoccer-cd-uma-antequera",
+    "name": "BeSoccer CD UMA Antequera",
+    "logo": "/cd-uma-antequera.svg",
+    "web": "",
+    "est": "",
+    "president": "",
+    "stadium": {
+      "name": "",
+      "capacity": ""
+    },
+    "coach": "",
+    "players": [],
+    "social": []
+  },
+  {
+    "id": "córdoba-patrimonio-humanidad",
+    "name": "Córdoba Patrimonio de la Humanidad",
+    "logo": "/cordoba.svg",
+    "web": "",
+    "est": "",
+    "president": "",
+    "stadium": {
+      "name": "",
+      "capacity": ""
+    },
+    "coach": "",
+    "players": [],
+    "social": []
+  },
+  {
+    "id": "elpozo-murcia-costa-cálida",
+    "name": "ElPozo Murcia Costa Cálida",
+    "logo": "/elpozo-murcia",
+    "web": "",
+    "est": "",
+    "president": "",
+    "stadium": {
+      "name": "",
+      "capacity": ""
+    },
+    "coach": "",
+    "players": [],
+    "social": []
+  },
+  {
+    "id": "industrias-santa-coloma",
+    "name": "Industrias Santa Coloma",
+    "logo": "/industrias-santa-coloma.svg",
+    "web": "",
+    "est": "",
+    "president": "",
+    "stadium": {
+      "name": "",
+      "capacity": ""
+    },
+    "coach": "",
+    "players": [],
+    "social": []
+  },
+  {
+    "id": "inter-fs",
+    "name": "Inter FS",
+    "logo": "/inter-fs.svg",
+    "web": "",
+    "est": "",
+    "president": "",
+    "stadium": {
+      "name": "",
+      "capacity": ""
+    },
+    "coach": "",
+    "players": [],
+    "social": []
+  },
+  {
+    "id": "jaén-fs",
+    "name": "Jaén FS",
+    "logo": "/jaen-fs.svg",
+    "web": "",
+    "est": "",
+    "president": "",
+    "stadium": {
+      "name": "",
+      "capacity": ""
+    },
+    "coach": "",
+    "players": [],
+    "social": []
+  },
+  {
+    "id": "jimbee-cartagena",
+    "name": "Jimbee Cartagena",
+    "logo": "/jimbee-cartagena.svg",
+    "web": "",
+    "est": "",
+    "president": "",
+    "stadium": {
+      "name": "",
+      "capacity": ""
+    },
+    "coach": "",
+    "players": [],
+    "social": []
+  },
+  {
+    "id": "levante-ud-fs",
+    "name": "Levante UD FS",
+    "logo": "/levante-fs.svg",
+    "web": "",
+    "est": "",
+    "president": "",
+    "stadium": {
+      "name": "",
+      "capacity": ""
+    },
+    "coach": "",
+    "players": [],
+    "social": []
+  },
+  {
+    "id": "mallorca-palma-futsal",
+    "name": "Mallorca Palma Futsal",
+    "logo": "/palma-futsal.svg",
+    "web": "",
+    "est": "",
+    "president": "",
+    "stadium": {
+      "name": "",
+      "capacity": ""
+    },
+    "coach": "",
+    "players": [],
+    "social": []
+  },
+  {
+    "id": "noia-portus-apostoli",
+    "name": "Noia Portus Apostoli",
+    "logo": "/noia-fs.svg",
+    "web": "",
+    "est": "",
+    "president": "",
+    "stadium": {
+      "name": "",
+      "capacity": ""
+    },
+    "coach": "",
+    "players": [],
+    "social": []
+  },
+  {
+    "id": "manzanares-fs",
+    "name": "Quesos Hidalgo Manzanares FS",
+    "logo": "/manzanares-fs.svg",
+    "web": "",
+    "est": "",
+    "president": "",
+    "stadium": {
+      "name": "",
+      "capacity": ""
+    },
+    "coach": "",
+    "players": [],
+    "social": []
+  },
+  {
+    "id": "real-betis-futsal",
+    "name": "Real Betis Futsal",
+    "logo": "/betis.svg",
+    "web": "",
+    "est": "",
+    "president": "",
+    "stadium": {
+      "name": "",
+      "capacity": ""
+    },
+    "coach": "",
+    "players": [],
+    "social": []
+  },
+  {
+    "id": "ribera-navarra-fs",
+    "name": "Ribera Navarra FS",
+    "logo": "/ribera-navarra.svg",
+    "web": "",
+    "est": "",
+    "president": "",
+    "stadium": {
+      "name": "",
+      "capacity": ""
+    },
+    "coach": "",
+    "players": [],
+    "social": []
+  },
+  {
+    "id": "viña-albali-valdepeñas",
+    "name": "Viña Albali Valdepeñas",
+    "logo": "/vina-albali-valdepenas.svg",
+    "web": "",
+    "est": "",
+    "president": "",
+    "stadium": {
+      "name": "",
+      "capacity": ""
+    },
+    "coach": "",
+    "players": [],
+    "social": []
+  },
+  {
+    "id": "xota-fs",
+    "name": "Xota FS",
+    "logo": "/xota-fs.svg",
+    "web": "",
+    "est": "",
+    "president": "",
+    "stadium": {
+      "name": "",
+      "capacity": ""
+    },
+    "coach": "",
+    "players": [],
+    "social": []
+  }
+]
