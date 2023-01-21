@@ -2,6 +2,10 @@ import * as cheerio from 'cheerio'
 import { writeFile } from 'node:fs/promises'
 import path from 'node:path'
 
+import TEAMS from '../db/teams.json' assert { type: 'json'}
+
+const DB_PATH = path.join(process.cwd(), 'db/')
+
 const URLS = {
   leaderboard: 'https://lnfs.es/competicion/primera/2023/clasificacion/1'
 }
@@ -28,6 +32,8 @@ async function getLeaderboard() {
     goalsDifference: { selector: '> :nth-child(11)', typeOf: 'number' }
   }
 
+  const getTeam = ({ name }) => TEAMS.find(team => team.name === name)
+
   const cleanText = text => text
     .replace(/\s\s+/g, ' ')
     .trim()
@@ -47,13 +53,18 @@ async function getLeaderboard() {
 
       return [key, value]
     })
-    leaderboard.push(Object.fromEntries(leaderboardEntries))
+
+    const { team: teamName, ...teamForLeaderboard } = Object.fromEntries(leaderboardEntries)
+    const team = getTeam({ name: teamName })
+
+    leaderboard.push({
+      ...teamForLeaderboard,
+      team
+    })
   })
   return leaderboard
 }
 
 const leaderboard = await getLeaderboard()
 
-const filePath = path.join(process.cwd(), 'db/leaderboard.json' )
-
-await writeFile(filePath, JSON.stringify(leaderboard, null, 2), 'utf-8' )
+await writeFile(`${DB_PATH}/leaderboard.json`, JSON.stringify(leaderboard, null, 2), 'utf-8')
