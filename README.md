@@ -15,3 +15,5 @@ Endpoints:
 - [Cheerio](https://cheerio.js.org/)
 - [Cloudflare Workers](https://workers.cloudflare.com)
 - [Hono](https://honojs.dev)
+
+Based on [Kings League Project by *midudev*](https://github.com/midudev/kings-league-project) streamed on [Twitch](https://www.twitch.tv/midudev)
