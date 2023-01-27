@@ -1,10 +1,7 @@
 import * as cheerio from 'cheerio'
-import { writeFile } from 'node:fs/promises'
-import path from 'node:path'
+import { writeDBFile } from '../db/index.js'
 
 import TEAMS from '../db/teams.json' assert { type: 'json'}
-
-const DB_PATH = path.join(process.cwd(), 'db/')
 
 const URLS = {
   leaderboard: 'https://lnfs.es/competicion/primera/2023/clasificacion/1'
@@ -67,4 +64,4 @@ async function getLeaderboard() {
 
 const leaderboard = await getLeaderboard()
 
-await writeFile(`${DB_PATH}/leaderboard.json`, JSON.stringify(leaderboard, null, 2), 'utf-8')
+await writeDBFile('leaderboard', leaderboard)
