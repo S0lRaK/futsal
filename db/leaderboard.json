@@ -25,13 +25,13 @@
     }
   },
   {
-    "points": 36,
-    "gamesPlayed": 17,
+    "points": 37,
+    "gamesPlayed": 18,
     "gamesWon": 11,
-    "gamesDrawn": 3,
+    "gamesDrawn": 4,
     "gamesLost": 3,
-    "goalsFor": 75,
-    "goalsAgainst": 50,
+    "goalsFor": 77,
+    "goalsAgainst": 52,
     "goalsDifference": 25,
     "team": {
       "id": "mallorca-palma-futsal",
@@ -50,18 +50,43 @@
     }
   },
   {
-    "points": 34,
-    "gamesPlayed": 17,
-    "gamesWon": 10,
+    "points": 37,
+    "gamesPlayed": 18,
+    "gamesWon": 11,
     "gamesDrawn": 4,
     "gamesLost": 3,
-    "goalsFor": 61,
-    "goalsAgainst": 38,
-    "goalsDifference": 23,
+    "goalsFor": 65,
+    "goalsAgainst": 41,
+    "goalsDifference": 24,
     "team": {
       "id": "jaén-fs",
       "name": "Jaén FS",
       "logo": "/jaen-fs.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
+    "points": 33,
+    "gamesPlayed": 18,
+    "gamesWon": 10,
+    "gamesDrawn": 3,
+    "gamesLost": 5,
+    "goalsFor": 60,
+    "goalsAgainst": 41,
+    "goalsDifference": 19,
+    "team": {
+      "id": "elpozo-murcia-costa-cálida",
+      "name": "ElPozo Murcia Costa Cálida",
+      "logo": "/elpozo-murcia",
       "web": "",
       "est": "",
       "president": "",
@@ -87,31 +112,6 @@
       "id": "inter-fs",
       "name": "Inter FS",
       "logo": "/inter-fs.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 30,
-    "gamesPlayed": 17,
-    "gamesWon": 9,
-    "gamesDrawn": 3,
-    "gamesLost": 5,
-    "goalsFor": 56,
-    "goalsAgainst": 38,
-    "goalsDifference": 18,
-    "team": {
-      "id": "elpozo-murcia-costa-cálida",
-      "name": "ElPozo Murcia Costa Cálida",
-      "logo": "/elpozo-murcia",
       "web": "",
       "est": "",
       "president": "",
@@ -151,13 +151,13 @@
   },
   {
     "points": 28,
-    "gamesPlayed": 17,
+    "gamesPlayed": 18,
     "gamesWon": 9,
     "gamesDrawn": 1,
-    "gamesLost": 7,
-    "goalsFor": 55,
-    "goalsAgainst": 52,
-    "goalsDifference": 3,
+    "gamesLost": 8,
+    "goalsFor": 58,
+    "goalsAgainst": 56,
+    "goalsDifference": 2,
     "team": {
       "id": "viña-albali-valdepeñas",
       "name": "Viña Albali Valdepeñas",
@@ -175,14 +175,14 @@
     }
   },
   {
-    "points": 22,
-    "gamesPlayed": 17,
-    "gamesWon": 6,
+    "points": 25,
+    "gamesPlayed": 18,
+    "gamesWon": 7,
     "gamesDrawn": 4,
     "gamesLost": 7,
-    "goalsFor": 44,
-    "goalsAgainst": 47,
-    "goalsDifference": -3,
+    "goalsFor": 47,
+    "goalsAgainst": 49,
+    "goalsDifference": -2,
     "team": {
       "id": "noia-portus-apostoli",
       "name": "Noia Portus Apostoli",
@@ -201,17 +201,42 @@
   },
   {
     "points": 21,
-    "gamesPlayed": 17,
+    "gamesPlayed": 18,
     "gamesWon": 6,
     "gamesDrawn": 3,
-    "gamesLost": 8,
-    "goalsFor": 52,
-    "goalsAgainst": 61,
-    "goalsDifference": -9,
+    "gamesLost": 9,
+    "goalsFor": 54,
+    "goalsAgainst": 64,
+    "goalsDifference": -10,
     "team": {
       "id": "ribera-navarra-fs",
       "name": "Ribera Navarra FS",
       "logo": "/ribera-navarra.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
+    "points": 20,
+    "gamesPlayed": 18,
+    "gamesWon": 5,
+    "gamesDrawn": 5,
+    "gamesLost": 8,
+    "goalsFor": 57,
+    "goalsAgainst": 64,
+    "goalsDifference": -7,
+    "team": {
+      "id": "industrias-santa-coloma",
+      "name": "Industrias Santa Coloma",
+      "logo": "/industrias-santa-coloma.svg",
       "web": "",
       "est": "",
       "president": "",
@@ -255,31 +280,6 @@
     "gamesWon": 5,
     "gamesDrawn": 4,
     "gamesLost": 8,
-    "goalsFor": 55,
-    "goalsAgainst": 62,
-    "goalsDifference": -7,
-    "team": {
-      "id": "industrias-santa-coloma",
-      "name": "Industrias Santa Coloma",
-      "logo": "/industrias-santa-coloma.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 19,
-    "gamesPlayed": 17,
-    "gamesWon": 5,
-    "gamesDrawn": 4,
-    "gamesLost": 8,
     "goalsFor": 47,
     "goalsAgainst": 56,
     "goalsDifference": -9,
@@ -300,14 +300,39 @@
     }
   },
   {
+    "points": 16,
+    "gamesPlayed": 18,
+    "gamesWon": 4,
+    "gamesDrawn": 4,
+    "gamesLost": 10,
+    "goalsFor": 45,
+    "goalsAgainst": 63,
+    "goalsDifference": -18,
+    "team": {
+      "id": "manzanares-fs",
+      "name": "Quesos Hidalgo Manzanares FS",
+      "logo": "/manzanares-fs.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
     "points": 15,
-    "gamesPlayed": 17,
+    "gamesPlayed": 18,
     "gamesWon": 4,
     "gamesDrawn": 3,
-    "gamesLost": 10,
-    "goalsFor": 36,
-    "goalsAgainst": 52,
-    "goalsDifference": -16,
+    "gamesLost": 11,
+    "goalsFor": 38,
+    "goalsAgainst": 55,
+    "goalsDifference": -17,
     "team": {
       "id": "xota-fs",
       "name": "Xota FS",
@@ -326,13 +351,13 @@
   },
   {
     "points": 14,
-    "gamesPlayed": 17,
+    "gamesPlayed": 18,
     "gamesWon": 3,
     "gamesDrawn": 5,
-    "gamesLost": 9,
-    "goalsFor": 47,
-    "goalsAgainst": 64,
-    "goalsDifference": -17,
+    "gamesLost": 10,
+    "goalsFor": 50,
+    "goalsAgainst": 68,
+    "goalsDifference": -18,
     "team": {
       "id": "córdoba-patrimonio-humanidad",
       "name": "Córdoba Patrimonio de la Humanidad",
@@ -362,31 +387,6 @@
       "id": "levante-ud-fs",
       "name": "Levante UD FS",
       "logo": "/levante-fs.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 13,
-    "gamesPlayed": 17,
-    "gamesWon": 3,
-    "gamesDrawn": 4,
-    "gamesLost": 10,
-    "goalsFor": 42,
-    "goalsAgainst": 61,
-    "goalsDifference": -19,
-    "team": {
-      "id": "manzanares-fs",
-      "name": "Quesos Hidalgo Manzanares FS",
-      "logo": "/manzanares-fs.svg",
       "web": "",
       "est": "",
       "president": "",
