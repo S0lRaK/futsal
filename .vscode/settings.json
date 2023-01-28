@@ -4,6 +4,7 @@
     "pnpm",
     "scraping",
     "deps",
-    "api"
+    "api",
+    "action"
   ]
 }
