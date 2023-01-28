@@ -1,0 +1,27 @@
+name: Scrape LNFS website
+
+on:
+  schedule:
+    - cron: "*/30 22,23 * * 0"
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Fetch all history for all tags and branches
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - uses: pnpm/action-setup@v2
+        with:
+          version: 7.24.3
+      - run: |
+          node scraping/leaderboard.js
+          git config user.name futsal-bot
+          git add -A
+          git commit -m "[bot] ci(db): :card_file_box: Update LNFS database"
+          git push origin main
+          
