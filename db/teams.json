@@ -2,7 +2,7 @@
   {
     "id": "barça",
     "name": "Barça",
-    "logo": "/fc-barcelona.svg",
+    "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/fc-barcelona.svg",
     "web": "",
     "est": "",
     "president": "",
@@ -17,7 +17,7 @@
   {
     "id": "besoccer-cd-uma-antequera",
     "name": "BeSoccer CD UMA Antequera",
-    "logo": "/cd-uma-antequera.svg",
+    "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/cd-uma-antequera.svg",
     "web": "",
     "est": "",
     "president": "",
@@ -32,7 +32,7 @@
   {
     "id": "córdoba-patrimonio-humanidad",
     "name": "Córdoba Patrimonio de la Humanidad",
-    "logo": "/cordoba.svg",
+    "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/cordoba.svg",
     "web": "",
     "est": "",
     "president": "",
@@ -47,7 +47,7 @@
   {
     "id": "elpozo-murcia-costa-cálida",
     "name": "ElPozo Murcia Costa Cálida",
-    "logo": "/elpozo-murcia",
+    "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/elpozo-murcia.svg",
     "web": "",
     "est": "",
     "president": "",
@@ -62,7 +62,7 @@
   {
     "id": "industrias-santa-coloma",
     "name": "Industrias Santa Coloma",
-    "logo": "/industrias-santa-coloma.svg",
+    "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/industrias-santa-coloma.svg",
     "web": "",
     "est": "",
     "president": "",
@@ -77,7 +77,7 @@
   {
     "id": "inter-fs",
     "name": "Inter FS",
-    "logo": "/inter-fs.svg",
+    "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/inter-fs.svg",
     "web": "",
     "est": "",
     "president": "",
@@ -92,7 +92,7 @@
   {
     "id": "jaén-fs",
     "name": "Jaén FS",
-    "logo": "/jaen-fs.svg",
+    "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jaen-fs.svg",
     "web": "",
     "est": "",
     "president": "",
@@ -107,7 +107,7 @@
   {
     "id": "jimbee-cartagena",
     "name": "Jimbee Cartagena",
-    "logo": "/jimbee-cartagena.svg",
+    "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jimbee-cartagena.svg",
     "web": "",
     "est": "",
     "president": "",
@@ -122,7 +122,7 @@
   {
     "id": "levante-ud-fs",
     "name": "Levante UD FS",
-    "logo": "/levante-fs.svg",
+    "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/levante-fs.svg",
     "web": "",
     "est": "",
     "president": "",
@@ -137,7 +137,7 @@
   {
     "id": "mallorca-palma-futsal",
     "name": "Mallorca Palma Futsal",
-    "logo": "/palma-futsal.svg",
+    "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/palma-futsal.svg",
     "web": "",
     "est": "",
     "president": "",
@@ -152,7 +152,7 @@
   {
     "id": "noia-portus-apostoli",
     "name": "Noia Portus Apostoli",
-    "logo": "/noia-fs.svg",
+    "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/noia-fs.svg",
     "web": "",
     "est": "",
     "president": "",
@@ -167,7 +167,7 @@
   {
     "id": "manzanares-fs",
     "name": "Quesos Hidalgo Manzanares FS",
-    "logo": "/manzanares-fs.svg",
+    "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/manzanares-fs.svg",
     "web": "",
     "est": "",
     "president": "",
@@ -182,7 +182,7 @@
   {
     "id": "real-betis-futsal",
     "name": "Real Betis Futsal",
-    "logo": "/betis.svg",
+    "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/betis.svg",
     "web": "",
     "est": "",
     "president": "",
@@ -197,7 +197,7 @@
   {
     "id": "ribera-navarra-fs",
     "name": "Ribera Navarra FS",
-    "logo": "/ribera-navarra.svg",
+    "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/ribera-navarra.svg",
     "web": "",
     "est": "",
     "president": "",
@@ -212,7 +212,7 @@
   {
     "id": "viña-albali-valdepeñas",
     "name": "Viña Albali Valdepeñas",
-    "logo": "/vina-albali-valdepenas.svg",
+    "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/vina-albali-valdepenas.svg",
     "web": "",
     "est": "",
     "president": "",
@@ -227,7 +227,7 @@
   {
     "id": "xota-fs",
     "name": "Xota FS",
-    "logo": "/xota-fs.svg",
+    "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/xota-fs.svg",
     "web": "",
     "est": "",
     "president": "",
