@@ -1,0 +1,19 @@
+name: Deploy API
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-22.04
+    name: Deploy to Cloudflare Workers with Wrangler
+    steps:
+      # fetch-depth 1 is the default (last commit)
+      - uses: actions/checkout@v3
+      - name: Publish
+        uses: cloudflare/wrangler-action@2.0.0
+        with:
+          # Your Cloudflare API Token
+          apiToken: ${{ secrets.CF_API_TOKEN }}

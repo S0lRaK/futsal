@@ -1,7 +1,7 @@
 {
   "name": "lnfs",
-  "version": "0.1.0",
-  "description": "",
+  "version": "0.2.0",
+  "description": "Futsal API",
   "main": "index.js",
   "type": "module",
   "scripts": {
