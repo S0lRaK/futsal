@@ -5,6 +5,7 @@
     "scraping",
     "deps",
     "api",
-    "action"
+    "action",
+    "test"
   ]
 }
