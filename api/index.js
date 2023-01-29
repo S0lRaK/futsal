@@ -14,6 +14,10 @@ app.get('/', (context) => context.json([
 	{
 		endpoint: '/teams',
 		description: 'Returns the teams'
+	},
+	{
+		endpoint: '/teams/id',
+		description: 'Returns the team'
 	}
 ]))
 
