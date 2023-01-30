@@ -3,7 +3,8 @@ name: Scrape LNFS website
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 22,23 * * 0"
+    # At every 30th minute past every hour from 19 through 23 on Sunday, Friday, and Saturday.
+    - cron: "*/30 19-23 * * 0,5,6"
 
 jobs:
   build:
