@@ -25,6 +25,31 @@
     }
   },
   {
+    "points": 40,
+    "gamesPlayed": 19,
+    "gamesWon": 12,
+    "gamesDrawn": 4,
+    "gamesLost": 3,
+    "goalsFor": 66,
+    "goalsAgainst": 41,
+    "goalsDifference": 25,
+    "team": {
+      "id": "jaén-fs",
+      "name": "Jaén FS",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jaen-fs.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
     "points": 37,
     "gamesPlayed": 18,
     "gamesWon": 11,
@@ -50,39 +75,14 @@
     }
   },
   {
-    "points": 37,
-    "gamesPlayed": 18,
+    "points": 36,
+    "gamesPlayed": 19,
     "gamesWon": 11,
-    "gamesDrawn": 4,
-    "gamesLost": 3,
-    "goalsFor": 65,
-    "goalsAgainst": 41,
-    "goalsDifference": 24,
-    "team": {
-      "id": "jaén-fs",
-      "name": "Jaén FS",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jaen-fs.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 33,
-    "gamesPlayed": 18,
-    "gamesWon": 10,
     "gamesDrawn": 3,
     "gamesLost": 5,
-    "goalsFor": 60,
+    "goalsFor": 64,
     "goalsAgainst": 41,
-    "goalsDifference": 19,
+    "goalsDifference": 23,
     "team": {
       "id": "elpozo-murcia-costa-cálida",
       "name": "ElPozo Murcia Costa Cálida",
@@ -100,14 +100,14 @@
     }
   },
   {
-    "points": 31,
-    "gamesPlayed": 18,
-    "gamesWon": 10,
+    "points": 34,
+    "gamesPlayed": 19,
+    "gamesWon": 11,
     "gamesDrawn": 1,
     "gamesLost": 7,
-    "goalsFor": 68,
+    "goalsFor": 69,
     "goalsAgainst": 62,
-    "goalsDifference": 6,
+    "goalsDifference": 7,
     "team": {
       "id": "inter-fs",
       "name": "Inter FS",
@@ -176,13 +176,13 @@
   },
   {
     "points": 25,
-    "gamesPlayed": 18,
+    "gamesPlayed": 19,
     "gamesWon": 7,
     "gamesDrawn": 4,
-    "gamesLost": 7,
+    "gamesLost": 8,
     "goalsFor": 47,
-    "goalsAgainst": 49,
-    "goalsDifference": -2,
+    "goalsAgainst": 53,
+    "goalsDifference": -6,
     "team": {
       "id": "noia-portus-apostoli",
       "name": "Noia Portus Apostoli",
@@ -326,13 +326,13 @@
   },
   {
     "points": 15,
-    "gamesPlayed": 18,
+    "gamesPlayed": 19,
     "gamesWon": 4,
     "gamesDrawn": 3,
-    "gamesLost": 11,
+    "gamesLost": 12,
     "goalsFor": 38,
-    "goalsAgainst": 55,
-    "goalsDifference": -17,
+    "goalsAgainst": 56,
+    "goalsDifference": -18,
     "team": {
       "id": "xota-fs",
       "name": "Xota FS",
@@ -376,13 +376,13 @@
   },
   {
     "points": 13,
-    "gamesPlayed": 18,
+    "gamesPlayed": 19,
     "gamesWon": 4,
     "gamesDrawn": 1,
-    "gamesLost": 13,
+    "gamesLost": 14,
     "goalsFor": 42,
-    "goalsAgainst": 61,
-    "goalsDifference": -19,
+    "goalsAgainst": 62,
+    "goalsDifference": -20,
     "team": {
       "id": "levante-ud-fs",
       "name": "Levante UD FS",
