@@ -30,9 +30,9 @@
     "gamesWon": 12,
     "gamesDrawn": 4,
     "gamesLost": 3,
-    "goalsFor": 67,
-    "goalsAgainst": 41,
-    "goalsDifference": 26,
+    "goalsFor": 71,
+    "goalsAgainst": 42,
+    "goalsDifference": 29,
     "team": {
       "id": "jaén-fs",
       "name": "Jaén FS",
@@ -80,9 +80,9 @@
     "gamesWon": 11,
     "gamesDrawn": 3,
     "gamesLost": 5,
-    "goalsFor": 66,
+    "goalsFor": 67,
     "goalsAgainst": 43,
-    "goalsDifference": 23,
+    "goalsDifference": 24,
     "team": {
       "id": "elpozo-murcia-costa-cálida",
       "name": "ElPozo Murcia Costa Cálida",
@@ -100,14 +100,14 @@
     }
   },
   {
-    "points": 34,
+    "points": 31,
     "gamesPlayed": 19,
-    "gamesWon": 11,
+    "gamesWon": 10,
     "gamesDrawn": 1,
-    "gamesLost": 7,
-    "goalsFor": 69,
-    "goalsAgainst": 62,
-    "goalsDifference": 7,
+    "gamesLost": 8,
+    "goalsFor": 70,
+    "goalsAgainst": 66,
+    "goalsDifference": 4,
     "team": {
       "id": "inter-fs",
       "name": "Inter FS",
@@ -181,8 +181,8 @@
     "gamesDrawn": 4,
     "gamesLost": 8,
     "goalsFor": 49,
-    "goalsAgainst": 55,
-    "goalsDifference": -6,
+    "goalsAgainst": 56,
+    "goalsDifference": -7,
     "team": {
       "id": "noia-portus-apostoli",
       "name": "Noia Portus Apostoli",
@@ -200,14 +200,14 @@
     }
   },
   {
-    "points": 23,
+    "points": 21,
     "gamesPlayed": 19,
-    "gamesWon": 6,
-    "gamesDrawn": 5,
+    "gamesWon": 5,
+    "gamesDrawn": 6,
     "gamesLost": 8,
     "goalsFor": 58,
-    "goalsAgainst": 64,
-    "goalsDifference": -6,
+    "goalsAgainst": 65,
+    "goalsDifference": -7,
     "team": {
       "id": "industrias-santa-coloma",
       "name": "Industrias Santa Coloma",
@@ -250,6 +250,31 @@
     }
   },
   {
+    "points": 21,
+    "gamesPlayed": 19,
+    "gamesWon": 5,
+    "gamesDrawn": 6,
+    "gamesLost": 8,
+    "goalsFor": 53,
+    "goalsAgainst": 66,
+    "goalsDifference": -13,
+    "team": {
+      "id": "real-betis-futsal",
+      "name": "Real Betis Futsal",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/betis.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
     "points": 20,
     "gamesPlayed": 18,
     "gamesWon": 5,
@@ -275,18 +300,18 @@
     }
   },
   {
-    "points": 20,
+    "points": 18,
     "gamesPlayed": 19,
     "gamesWon": 5,
-    "gamesDrawn": 5,
-    "gamesLost": 9,
-    "goalsFor": 52,
-    "goalsAgainst": 66,
-    "goalsDifference": -14,
+    "gamesDrawn": 3,
+    "gamesLost": 11,
+    "goalsFor": 42,
+    "goalsAgainst": 57,
+    "goalsDifference": -15,
     "team": {
-      "id": "real-betis-futsal",
-      "name": "Real Betis Futsal",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/betis.svg",
+      "id": "xota-fs",
+      "name": "Xota FS",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/xota-fs.svg",
       "web": "",
       "est": "",
       "president": "",
@@ -312,31 +337,6 @@
       "id": "manzanares-fs",
       "name": "Quesos Hidalgo Manzanares FS",
       "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/manzanares-fs.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 15,
-    "gamesPlayed": 19,
-    "gamesWon": 4,
-    "gamesDrawn": 3,
-    "gamesLost": 12,
-    "goalsFor": 38,
-    "goalsAgainst": 56,
-    "goalsDifference": -18,
-    "team": {
-      "id": "xota-fs",
-      "name": "Xota FS",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/xota-fs.svg",
       "web": "",
       "est": "",
       "president": "",
@@ -380,9 +380,9 @@
     "gamesWon": 4,
     "gamesDrawn": 1,
     "gamesLost": 14,
-    "goalsFor": 42,
-    "goalsAgainst": 63,
-    "goalsDifference": -21,
+    "goalsFor": 43,
+    "goalsAgainst": 67,
+    "goalsDifference": -24,
     "team": {
       "id": "levante-ud-fs",
       "name": "Levante UD FS",
