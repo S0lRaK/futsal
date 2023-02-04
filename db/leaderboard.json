@@ -5,8 +5,8 @@
     "gamesWon": 16,
     "gamesDrawn": 1,
     "gamesLost": 2,
-    "goalsFor": 81,
-    "goalsAgainst": 42,
+    "goalsFor": 82,
+    "goalsAgainst": 43,
     "goalsDifference": 39,
     "team": {
       "id": "barça",
@@ -230,8 +230,8 @@
     "gamesWon": 6,
     "gamesDrawn": 3,
     "gamesLost": 10,
-    "goalsFor": 54,
-    "goalsAgainst": 66,
+    "goalsFor": 55,
+    "goalsAgainst": 67,
     "goalsDifference": -12,
     "team": {
       "id": "ribera-navarra-fs",
