@@ -16,5 +16,6 @@ Endpoints:
 - [Cloudflare Workers](https://workers.cloudflare.com)
 - [Hono](https://honojs.dev)
 - [Astro](https://astro.build)
+- [Vitest](https://vitest.dev)
 
 Based on [Kings League Project by *midudev*](https://github.com/midudev/kings-league-project) streamed on [Twitch](https://www.twitch.tv/midudev)
