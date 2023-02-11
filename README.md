@@ -12,8 +12,9 @@ Endpoints:
 - GET `/teams`: returns the all the teams from the First Division
 
 ## Tech Stack
-- [Cheerio](https://cheerio.js.org/)
+- [Cheerio](https://cheerio.js.org)
 - [Cloudflare Workers](https://workers.cloudflare.com)
 - [Hono](https://honojs.dev)
+- [Astro](https://astro.build)
 
 Based on [Kings League Project by *midudev*](https://github.com/midudev/kings-league-project) streamed on [Twitch](https://www.twitch.tv/midudev)

@@ -7,7 +7,9 @@
 		"api",
 		"action",
 		"test",
-		"config"
+		"config",
+		"assets",
+		"web"
 	],
 	"eslint.validate": [
 		"javascript",
