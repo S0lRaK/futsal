@@ -21,9 +21,9 @@ app.get('/', (context) => context.json([
 	}
 ]))
 
-app.get('/leaderboard', (context) => context.json(leaderboard))
+app.get('/leaderboard\\/?', (context) => context.json(leaderboard))
 
-app.get('/teams', (context) => context.json(teams))
+app.get('/teams\\/?', (context) => context.json(teams))
 
 app.get('/teams/:id', (context) => {
 	const teamId = context.req.param('id')
