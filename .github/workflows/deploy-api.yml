@@ -24,7 +24,7 @@ jobs:
     runs-on: ubuntu-22.04
     name: Deploy to Cloudflare Workers with Wrangler
     # Only deploy if the push is from the main repo
-    if: ${{ github.event.pull_request.head.repo.full_name == github.repository }}
+    # if: ${{ github.event.pull_request.head.repo.full_name == github.repository }}
     steps:
       # fetch-depth 1 is the default (last commit)
       - uses: actions/checkout@v3
