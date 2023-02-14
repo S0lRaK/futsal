@@ -24,6 +24,11 @@ describe('Testing / route', () => {
 			})
 		}
 	})
+
+	it('Routes should should return 404 for unknown routes', async () => {
+		const response = await worker.fetch('/unknown')
+		expect(response.status).toBe(404)
+	})
 })
 
 describe('Testing /teams route', () => {
