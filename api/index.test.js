@@ -67,7 +67,7 @@ describe('Testing /teams route', () => {
 		}
 	})
 
-	it('Non existing tema should return "not found" message', async() => {
+	it('Non existing team should return "not found" message', async() => {
 		const response = await worker.fetch('/teams/noexist')
 		if (response) {
 			const errorMessage = await response.json()
