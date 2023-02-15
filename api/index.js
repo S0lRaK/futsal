@@ -21,9 +21,9 @@ app.get('/', (context) => context.json([
 	}
 ]))
 
-app.get('/leaderboard\\/?', (context) => context.json(leaderboard))
+app.get('/leaderboard', (context) => context.json(leaderboard))
 
-app.get('/teams\\/?', (context) => context.json(teams))
+app.get('/teams', (context) => context.json(teams))
 
 app.get('/teams/:id', (context) => {
 	const teamId = context.req.param('id')
@@ -35,5 +35,15 @@ app.get('/teams/:id', (context) => {
 })
 
 app.get('/static/*', serveStatic({ root: './' }))
+
+app.notFound((context) => {
+	const { pathname } = new URL(context.req.url)
+
+	if (context.req.url.at(-1) === '/') {
+		return context.redirect(pathname.slice(0, -1))
+	}
+
+	return context.json({ message: 'Not Found' }, 404)
+})
 
 export default app
