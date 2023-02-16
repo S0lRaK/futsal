@@ -44,7 +44,7 @@ describe('Testing /teams route', () => {
 		await worker.stop()
 	})
 
-	it('Teams endpoint should have all teams', async() => {
+	it('Teams endpoint should have all teams', async () => {
 		const response = await worker.fetch('/teams')
 		if (response) {
 			const teams = await response.json()
@@ -53,7 +53,7 @@ describe('Testing /teams route', () => {
 		}
 	})
 
-	it('Teams should have all props', async() => {
+	it('Teams should have all props', async () => {
 		const response = await worker.fetch('/teams')
 		if (response) {
 			const teams = await response.json()
@@ -72,7 +72,7 @@ describe('Testing /teams route', () => {
 		}
 	})
 
-	it('Non existing team should return "not found" message', async() => {
+	it('Non existing team should return "not found" message', async () => {
 		const response = await worker.fetch('/teams/noexist')
 		if (response) {
 			const errorMessage = await response.json()
