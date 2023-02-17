@@ -1,17 +1,6 @@
-import * as cheerio from 'cheerio'
 import { writeDBFile } from '../db/index.js'
-
+import { URLS, cleanText, scrape } from './utils.js'
 import TEAMS from '../db/teams.json' assert { type: 'json'}
-
-const URLS = {
-	leaderboard: 'https://lnfs.es/competicion/primera/2023/clasificacion/1'
-}
-
-async function scrape (url) {
-	const response = await fetch(url)
-	const html = await response.text()
-	return cheerio.load(html)
-}
 
 async function getLeaderboard () {
 	const $ = await scrape(URLS.leaderboard)
@@ -30,10 +19,6 @@ async function getLeaderboard () {
 	}
 
 	const getTeam = ({ name }) => TEAMS.find(team => team.name === name)
-
-	const cleanText = text => text
-		.replace(/\s\s+/g, ' ')
-		.trim()
 
 	const leaderboardSelectorsEntries = Object.entries(LEADERBOARD_SELECTORS)
 
