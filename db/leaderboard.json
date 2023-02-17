@@ -206,8 +206,8 @@
     "gamesDrawn": 6,
     "gamesLost": 8,
     "goalsFor": 58,
-    "goalsAgainst": 69,
-    "goalsDifference": -11,
+    "goalsAgainst": 70,
+    "goalsDifference": -12,
     "team": {
       "id": "real-betis-futsal",
       "name": "Real Betis Futsal",
@@ -355,9 +355,9 @@
     "gamesWon": 3,
     "gamesDrawn": 5,
     "gamesLost": 12,
-    "goalsFor": 56,
+    "goalsFor": 57,
     "goalsAgainst": 77,
-    "goalsDifference": -21,
+    "goalsDifference": -20,
     "team": {
       "id": "córdoba-patrimonio-humanidad",
       "name": "Córdoba Patrimonio de la Humanidad",
