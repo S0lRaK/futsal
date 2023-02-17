@@ -10,9 +10,10 @@
     "dev": "astro dev",
     "preview": "astro preview",
     "publish:api": "wrangler publish api/index.js",
+		"scrape:leaderboard": "node scraping/leaderboard.js",
     "start": "astro dev",
-    "test": "vitest",
-    "test:cov": "vitest run --coverage"
+    "test:cov": "vitest run --coverage",
+    "test": "vitest"
   },
   "keywords": [],
   "author": "",
