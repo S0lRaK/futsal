@@ -1,5 +1,6 @@
 import { writeDBFile } from '../db/index.js'
 import { URLS, cleanText, scrape } from './utils.js'
+import { logError, logInfo, logSuccess } from './log.js'
 import TEAMS from '../db/teams.json' assert { type: 'json'}
 
 async function getLeaderboard () {
@@ -47,6 +48,15 @@ async function getLeaderboard () {
 	return leaderboard
 }
 
-const leaderboard = await getLeaderboard()
+try {
+	logInfo('Scraping leaderboard...')
+	const leaderboard = await getLeaderboard()
+	logSuccess('Leaderboard scraped successfully')
 
-await writeDBFile('leaderboard', leaderboard)
+	logInfo('Writing leaderboard to database...')
+	await writeDBFile('leaderboard', leaderboard)
+	logSuccess('Leaderboard written to database successfully')
+} catch (error) {
+	logError('Error scraping leaderboard')
+	logError(error)
+}
