@@ -10,7 +10,7 @@
     "dev": "astro dev",
     "preview": "astro preview",
     "publish:api": "wrangler publish api/index.js",
-		"scrape:leaderboard": "node scraping/leaderboard.js",
+    "scrape:leaderboard": "node scraping/leaderboard.js",
     "start": "astro dev",
     "test:cov": "vitest run --coverage",
     "test": "vitest"
@@ -23,6 +23,7 @@
     "astro": "2.0.4",
     "cheerio": "1.0.0-rc.12",
     "hono": "2.7.2",
+    "picocolors": "1.0.0",
     "tailwindcss": "3.2.6"
   },
   "devDependencies": {
