@@ -10,7 +10,7 @@
     "dev": "astro dev",
     "preview": "astro preview",
     "publish:api": "wrangler publish api/index.js",
-    "scrape:leaderboard": "node scraping/leaderboard.js",
+    "scrape": "node scraping/index.js",
     "start": "astro dev",
     "test:cov": "vitest run --coverage",
     "test": "vitest"
