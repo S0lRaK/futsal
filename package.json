@@ -1,6 +1,6 @@
 {
-  "name": "lnfs",
-  "version": "0.2.0",
+  "name": "futsal",
+  "version": "0.3.0",
   "description": "Futsal API and web",
   "main": "index.js",
   "type": "module",
