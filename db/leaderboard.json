@@ -25,14 +25,14 @@
     }
   },
   {
-    "points": 43,
+    "points": 44,
     "gamesPlayed": 21,
     "gamesWon": 13,
-    "gamesDrawn": 4,
-    "gamesLost": 4,
-    "goalsFor": 77,
+    "gamesDrawn": 5,
+    "gamesLost": 3,
+    "goalsFor": 78,
     "goalsAgainst": 46,
-    "goalsDifference": 31,
+    "goalsDifference": 32,
     "team": {
       "id": "jaén-fs",
       "name": "Jaén FS",
@@ -75,14 +75,14 @@
     }
   },
   {
-    "points": 42,
+    "points": 40,
     "gamesPlayed": 21,
-    "gamesWon": 13,
-    "gamesDrawn": 3,
+    "gamesWon": 12,
+    "gamesDrawn": 4,
     "gamesLost": 5,
     "goalsFor": 72,
-    "goalsAgainst": 46,
-    "goalsDifference": 26,
+    "goalsAgainst": 47,
+    "goalsDifference": 25,
     "team": {
       "id": "elpozo-murcia-costa-cálida",
       "name": "ElPozo Murcia Costa Cálida",
@@ -200,10 +200,10 @@
     }
   },
   {
-    "points": 24,
-    "gamesPlayed": 20,
+    "points": 25,
+    "gamesPlayed": 21,
     "gamesWon": 6,
-    "gamesDrawn": 6,
+    "gamesDrawn": 7,
     "gamesLost": 8,
     "goalsFor": 58,
     "goalsAgainst": 70,
@@ -375,10 +375,10 @@
     }
   },
   {
-    "points": 13,
-    "gamesPlayed": 20,
+    "points": 14,
+    "gamesPlayed": 21,
     "gamesWon": 4,
-    "gamesDrawn": 1,
+    "gamesDrawn": 2,
     "gamesLost": 15,
     "goalsFor": 46,
     "goalsAgainst": 74,
