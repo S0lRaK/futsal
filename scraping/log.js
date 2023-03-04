@@ -4,7 +4,7 @@ const symbol = {
 	info: pc.blue('ℹ'),
 	success: pc.green('✔'),
 	warning: pc.yellow('⚠'),
-	error: pc.red('✖'),
+	error: pc.red('✖')
 }
 
 export const logInfo = (...args) => console.log(`${symbol.info} ${pc.blue(...args)}`)

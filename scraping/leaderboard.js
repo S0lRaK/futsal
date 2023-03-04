@@ -1,5 +1,5 @@
 import { cleanText } from './utils.js'
-import TEAMS from '../db/teams.json' assert { type: 'json'}
+import TEAMS from '../db/teams.json' assert { type: 'json' }
 
 const LEADERBOARD_SELECTORS = {
 	team: { selector: '> :nth-child(3)', typeOf: 'string' },
@@ -13,10 +13,10 @@ const LEADERBOARD_SELECTORS = {
 	goalsDifference: { selector: '> :nth-child(11)', typeOf: 'number' }
 }
 
-export async function getLeaderboard ($) {
+export async function getLeaderboard($) {
 	const $rows = $('table tbody tr')
 
-	const getTeam = ({ name }) => TEAMS.find(team => team.name === name)
+	const getTeam = ({ name }) => TEAMS.find((team) => team.name === name)
 
 	const leaderboardSelectorsEntries = Object.entries(LEADERBOARD_SELECTORS)
 
@@ -27,9 +27,7 @@ export async function getLeaderboard ($) {
 			const rawValue = $(element).find(selector).text()
 			const valueCleaned = cleanText(rawValue)
 
-			const value = typeOf === 'number'
-				? Number(valueCleaned)
-				: valueCleaned
+			const value = typeOf === 'number' ? Number(valueCleaned) : valueCleaned
 
 			return [key, value]
 		})

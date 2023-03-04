@@ -1,18 +1,11 @@
 {
-	"compilerOptions": {
-		"baseUrl": ".",
-		"paths": {
-			"@components/*": [
-				"src/components/*"
-			],
-			"@layouts/*": [
-				"src/layouts/*"
-			]
-		},
-		"target": "ES2022"
-	},
-	"exclude": [
-		"node_modules",
-		"coverage"
-	]
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@components/*": ["src/components/*"],
+      "@layouts/*": ["src/layouts/*"]
+    },
+    "target": "ES2022"
+  },
+  "exclude": ["node_modules", "coverage"]
 }

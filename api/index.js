@@ -6,20 +6,22 @@ import teams from '../db/teams.json'
 
 const app = new Hono()
 
-app.get('/', (context) => context.json([
-	{
-		endpoint: '/leaderboard',
-		description: 'Returns the leaderboard'
-	},
-	{
-		endpoint: '/teams',
-		description: 'Returns the teams'
-	},
-	{
-		endpoint: '/teams/id',
-		description: 'Returns the team'
-	}
-]))
+app.get('/', (context) =>
+	context.json([
+		{
+			endpoint: '/leaderboard',
+			description: 'Returns the leaderboard'
+		},
+		{
+			endpoint: '/teams',
+			description: 'Returns the teams'
+		},
+		{
+			endpoint: '/teams/id',
+			description: 'Returns the team'
+		}
+	])
+)
 
 app.get('/leaderboard', (context) => context.json(leaderboard))
 

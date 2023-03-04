@@ -11,18 +11,15 @@ export const SCRAPINGS = {
 	}
 }
 
-export const cleanText = text =>
-	text
-		.replace(/\s\s+/g, ' ')
-		.trim()
+export const cleanText = (text) => text.replace(/\s\s+/g, ' ').trim()
 
-export async function scrape (url) {
+export async function scrape(url) {
 	const response = await fetch(url)
 	const html = await response.text()
 	return cheerio.load(html)
 }
 
-export async function scrapeAndSave (name) {
+export async function scrapeAndSave(name) {
 	const start = performance.now()
 
 	try {

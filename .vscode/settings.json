@@ -1,27 +1,21 @@
 {
-	"conventionalCommits.scopes": [
-		"db",
-		"pnpm",
-		"scraping",
-		"deps",
-		"api",
-		"action",
-		"test",
-		"config",
-		"assets",
-		"web"
-	],
-	"eslint.validate": [
-		"javascript",
-		"javascriptreact",
-		"astro",
-		"typescript",
-		"typescriptreact"
-	],
-	"editor.codeActionsOnSave": {
-		"source.fixAll.eslint": true
-	},
-	"javascript.format.insertSpaceBeforeFunctionParenthesis": true,
-	"editor.insertSpaces": false,
-	"editor.detectIndentation": false
+  "conventionalCommits.scopes": [
+    "db",
+    "pnpm",
+    "scraping",
+    "deps",
+    "api",
+    "action",
+    "test",
+    "config",
+    "assets",
+    "web"
+  ],
+  "eslint.validate": ["javascript", "javascriptreact", "astro", "typescript", "typescriptreact"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "editor.insertSpaces": false,
+  "editor.detectIndentation": false
 }
