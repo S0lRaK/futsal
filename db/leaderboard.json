@@ -200,6 +200,31 @@
     }
   },
   {
+    "points": 25,
+    "gamesPlayed": 22,
+    "gamesWon": 6,
+    "gamesDrawn": 7,
+    "gamesLost": 9,
+    "goalsFor": 60,
+    "goalsAgainst": 75,
+    "goalsDifference": -15,
+    "team": {
+      "id": "real-betis-futsal",
+      "name": "Real Betis Futsal",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/betis.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
     "points": 24,
     "gamesPlayed": 21,
     "gamesWon": 6,
@@ -225,43 +250,18 @@
     }
   },
   {
-    "points": 24,
-    "gamesPlayed": 21,
+    "points": 22,
+    "gamesPlayed": 22,
     "gamesWon": 6,
-    "gamesDrawn": 6,
-    "gamesLost": 9,
-    "goalsFor": 60,
-    "goalsAgainst": 75,
-    "goalsDifference": -15,
+    "gamesDrawn": 4,
+    "gamesLost": 12,
+    "goalsFor": 58,
+    "goalsAgainst": 77,
+    "goalsDifference": -19,
     "team": {
-      "id": "real-betis-futsal",
-      "name": "Real Betis Futsal",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/betis.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 21,
-    "gamesPlayed": 21,
-    "gamesWon": 5,
-    "gamesDrawn": 6,
-    "gamesLost": 10,
-    "goalsFor": 61,
-    "goalsAgainst": 74,
-    "goalsDifference": -13,
-    "team": {
-      "id": "industrias-santa-coloma",
-      "name": "Industrias Santa Coloma",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/industrias-santa-coloma.svg",
+      "id": "ribera-navarra-fs",
+      "name": "Ribera Navarra FS",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/ribera-navarra.svg",
       "web": "",
       "est": "",
       "president": "",
@@ -302,16 +302,16 @@
   {
     "points": 21,
     "gamesPlayed": 21,
-    "gamesWon": 6,
-    "gamesDrawn": 3,
-    "gamesLost": 12,
-    "goalsFor": 58,
-    "goalsAgainst": 77,
-    "goalsDifference": -19,
+    "gamesWon": 5,
+    "gamesDrawn": 6,
+    "gamesLost": 10,
+    "goalsFor": 61,
+    "goalsAgainst": 74,
+    "goalsDifference": -13,
     "team": {
-      "id": "ribera-navarra-fs",
-      "name": "Ribera Navarra FS",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/ribera-navarra.svg",
+      "id": "industrias-santa-coloma",
+      "name": "Industrias Santa Coloma",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/industrias-santa-coloma.svg",
       "web": "",
       "est": "",
       "president": "",
