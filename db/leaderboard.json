@@ -205,8 +205,8 @@
     "gamesWon": 6,
     "gamesDrawn": 7,
     "gamesLost": 9,
-    "goalsFor": 61,
-    "goalsAgainst": 76,
+    "goalsFor": 62,
+    "goalsAgainst": 77,
     "goalsDifference": -15,
     "team": {
       "id": "real-betis-futsal",
@@ -255,8 +255,8 @@
     "gamesWon": 6,
     "gamesDrawn": 4,
     "gamesLost": 12,
-    "goalsFor": 59,
-    "goalsAgainst": 78,
+    "goalsFor": 60,
+    "goalsAgainst": 79,
     "goalsDifference": -19,
     "team": {
       "id": "ribera-navarra-fs",
