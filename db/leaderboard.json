@@ -105,9 +105,9 @@
     "gamesWon": 12,
     "gamesDrawn": 1,
     "gamesLost": 9,
-    "goalsFor": 79,
+    "goalsFor": 80,
     "goalsAgainst": 71,
-    "goalsDifference": 8,
+    "goalsDifference": 9,
     "team": {
       "id": "inter-fs",
       "name": "Inter FS",
@@ -227,66 +227,41 @@
   {
     "points": 24,
     "gamesPlayed": 22,
-    "gamesWon": 6,
-    "gamesDrawn": 6,
-    "gamesLost": 10,
-    "goalsFor": 59,
-    "goalsAgainst": 74,
-    "goalsDifference": -15,
-    "team": {
-      "id": "besoccer-cd-uma-antequera",
-      "name": "BeSoccer CD UMA Antequera",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/cd-uma-antequera.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 22,
-    "gamesPlayed": 22,
-    "gamesWon": 5,
-    "gamesDrawn": 7,
-    "gamesLost": 10,
-    "goalsFor": 63,
-    "goalsAgainst": 76,
-    "goalsDifference": -13,
-    "team": {
-      "id": "industrias-santa-coloma",
-      "name": "Industrias Santa Coloma",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/industrias-santa-coloma.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 22,
-    "gamesPlayed": 22,
-    "gamesWon": 6,
-    "gamesDrawn": 4,
+    "gamesWon": 7,
+    "gamesDrawn": 3,
     "gamesLost": 12,
-    "goalsFor": 45,
+    "goalsFor": 46,
     "goalsAgainst": 60,
-    "goalsDifference": -15,
+    "goalsDifference": -14,
     "team": {
       "id": "xota-fs",
       "name": "Xota FS",
       "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/xota-fs.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
+    "points": 24,
+    "gamesPlayed": 22,
+    "gamesWon": 6,
+    "gamesDrawn": 6,
+    "gamesLost": 10,
+    "goalsFor": 59,
+    "goalsAgainst": 75,
+    "goalsDifference": -16,
+    "team": {
+      "id": "besoccer-cd-uma-antequera",
+      "name": "BeSoccer CD UMA Antequera",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/cd-uma-antequera.svg",
       "web": "",
       "est": "",
       "president": "",
@@ -325,14 +300,39 @@
     }
   },
   {
-    "points": 18,
+    "points": 21,
     "gamesPlayed": 22,
-    "gamesWon": 4,
+    "gamesWon": 5,
     "gamesDrawn": 6,
+    "gamesLost": 11,
+    "goalsFor": 63,
+    "goalsAgainst": 78,
+    "goalsDifference": -15,
+    "team": {
+      "id": "industrias-santa-coloma",
+      "name": "Industrias Santa Coloma",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/industrias-santa-coloma.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
+    "points": 20,
+    "gamesPlayed": 22,
+    "gamesWon": 5,
+    "gamesDrawn": 5,
     "gamesLost": 12,
-    "goalsFor": 53,
+    "goalsFor": 55,
     "goalsAgainst": 73,
-    "goalsDifference": -20,
+    "goalsDifference": -18,
     "team": {
       "id": "manzanares-fs",
       "name": "Quesos Hidalgo Manzanares FS",
@@ -375,14 +375,14 @@
     }
   },
   {
-    "points": 17,
+    "points": 16,
     "gamesPlayed": 22,
     "gamesWon": 5,
-    "gamesDrawn": 2,
-    "gamesLost": 15,
+    "gamesDrawn": 1,
+    "gamesLost": 16,
     "goalsFor": 51,
-    "goalsAgainst": 76,
-    "goalsDifference": -25,
+    "goalsAgainst": 77,
+    "goalsDifference": -26,
     "team": {
       "id": "levante-ud-fs",
       "name": "Levante UD FS",
