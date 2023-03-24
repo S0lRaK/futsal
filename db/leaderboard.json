@@ -125,10 +125,10 @@
     }
   },
   {
-    "points": 38,
-    "gamesPlayed": 23,
+    "points": 39,
+    "gamesPlayed": 24,
     "gamesWon": 12,
-    "gamesDrawn": 2,
+    "gamesDrawn": 3,
     "gamesLost": 9,
     "goalsFor": 81,
     "goalsAgainst": 72,
@@ -250,10 +250,10 @@
     }
   },
   {
-    "points": 24,
-    "gamesPlayed": 23,
+    "points": 25,
+    "gamesPlayed": 24,
     "gamesWon": 6,
-    "gamesDrawn": 6,
+    "gamesDrawn": 7,
     "gamesLost": 11,
     "goalsFor": 61,
     "goalsAgainst": 80,
@@ -262,6 +262,31 @@
       "id": "besoccer-cd-uma-antequera",
       "name": "BeSoccer CD UMA Antequera",
       "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/cd-uma-antequera.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
+    "points": 23,
+    "gamesPlayed": 24,
+    "gamesWon": 5,
+    "gamesDrawn": 8,
+    "gamesLost": 11,
+    "goalsFor": 64,
+    "goalsAgainst": 79,
+    "goalsDifference": -15,
+    "team": {
+      "id": "industrias-santa-coloma",
+      "name": "Industrias Santa Coloma",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/industrias-santa-coloma.svg",
       "web": "",
       "est": "",
       "president": "",
@@ -300,35 +325,10 @@
     }
   },
   {
-    "points": 22,
-    "gamesPlayed": 23,
+    "points": 21,
+    "gamesPlayed": 24,
     "gamesWon": 5,
-    "gamesDrawn": 7,
-    "gamesLost": 11,
-    "goalsFor": 64,
-    "goalsAgainst": 79,
-    "goalsDifference": -15,
-    "team": {
-      "id": "industrias-santa-coloma",
-      "name": "Industrias Santa Coloma",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/industrias-santa-coloma.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 20,
-    "gamesPlayed": 23,
-    "gamesWon": 5,
-    "gamesDrawn": 5,
+    "gamesDrawn": 6,
     "gamesLost": 13,
     "goalsFor": 69,
     "goalsAgainst": 84,
