@@ -100,31 +100,6 @@
     }
   },
   {
-    "points": 41,
-    "gamesPlayed": 24,
-    "gamesWon": 13,
-    "gamesDrawn": 2,
-    "gamesLost": 9,
-    "goalsFor": 82,
-    "goalsAgainst": 72,
-    "goalsDifference": 10,
-    "team": {
-      "id": "inter-fs",
-      "name": "Inter FS",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/inter-fs.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
     "points": 40,
     "gamesPlayed": 23,
     "gamesWon": 12,
@@ -150,14 +125,39 @@
     }
   },
   {
-    "points": 35,
+    "points": 39,
     "gamesPlayed": 24,
-    "gamesWon": 11,
-    "gamesDrawn": 2,
+    "gamesWon": 12,
+    "gamesDrawn": 3,
+    "gamesLost": 9,
+    "goalsFor": 82,
+    "goalsAgainst": 73,
+    "goalsDifference": 9,
+    "team": {
+      "id": "inter-fs",
+      "name": "Inter FS",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/inter-fs.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
+    "points": 37,
+    "gamesPlayed": 24,
+    "gamesWon": 12,
+    "gamesDrawn": 1,
     "gamesLost": 11,
-    "goalsFor": 72,
+    "goalsFor": 73,
     "goalsAgainst": 77,
-    "goalsDifference": -5,
+    "goalsDifference": -4,
     "team": {
       "id": "viña-albali-valdepeñas",
       "name": "Viña Albali Valdepeñas",
@@ -200,14 +200,14 @@
     }
   },
   {
-    "points": 27,
+    "points": 26,
     "gamesPlayed": 25,
     "gamesWon": 6,
-    "gamesDrawn": 9,
-    "gamesLost": 10,
+    "gamesDrawn": 8,
+    "gamesLost": 11,
     "goalsFor": 71,
-    "goalsAgainst": 88,
-    "goalsDifference": -17,
+    "goalsAgainst": 89,
+    "goalsDifference": -18,
     "team": {
       "id": "real-betis-futsal",
       "name": "Real Betis Futsal",
@@ -325,14 +325,14 @@
     }
   },
   {
-    "points": 20,
+    "points": 21,
     "gamesPlayed": 24,
     "gamesWon": 5,
-    "gamesDrawn": 5,
-    "gamesLost": 14,
-    "goalsFor": 69,
+    "gamesDrawn": 6,
+    "gamesLost": 13,
+    "goalsFor": 70,
     "goalsAgainst": 85,
-    "goalsDifference": -16,
+    "goalsDifference": -15,
     "team": {
       "id": "córdoba-patrimonio-humanidad",
       "name": "Córdoba Patrimonio de la Humanidad",
