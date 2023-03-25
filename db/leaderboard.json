@@ -30,9 +30,9 @@
     "gamesWon": 17,
     "gamesDrawn": 4,
     "gamesLost": 4,
-    "goalsFor": 104,
+    "goalsFor": 107,
     "goalsAgainst": 69,
-    "goalsDifference": 35,
+    "goalsDifference": 38,
     "team": {
       "id": "mallorca-palma-futsal",
       "name": "Mallorca Palma Futsal",
@@ -181,8 +181,8 @@
     "gamesDrawn": 6,
     "gamesLost": 9,
     "goalsFor": 67,
-    "goalsAgainst": 68,
-    "goalsDifference": -1,
+    "goalsAgainst": 71,
+    "goalsDifference": -4,
     "team": {
       "id": "noia-portus-apostoli",
       "name": "Noia Portus Apostoli",
