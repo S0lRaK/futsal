@@ -1,6 +1,31 @@
 [
   {
     "points": 57,
+    "gamesPlayed": 27,
+    "gamesWon": 17,
+    "gamesDrawn": 6,
+    "gamesLost": 4,
+    "goalsFor": 112,
+    "goalsAgainst": 74,
+    "goalsDifference": 38,
+    "team": {
+      "id": "mallorca-palma-futsal",
+      "name": "Mallorca Palma Futsal",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/palma-futsal.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
+    "points": 57,
     "gamesPlayed": 25,
     "gamesWon": 18,
     "gamesDrawn": 3,
@@ -25,38 +50,13 @@
     }
   },
   {
-    "points": 56,
+    "points": 52,
     "gamesPlayed": 26,
-    "gamesWon": 17,
-    "gamesDrawn": 5,
-    "gamesLost": 4,
-    "goalsFor": 111,
-    "goalsAgainst": 73,
-    "goalsDifference": 38,
-    "team": {
-      "id": "mallorca-palma-futsal",
-      "name": "Mallorca Palma Futsal",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/palma-futsal.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 51,
-    "gamesPlayed": 25,
     "gamesWon": 15,
-    "gamesDrawn": 6,
+    "gamesDrawn": 7,
     "gamesLost": 4,
-    "goalsFor": 90,
-    "goalsAgainst": 53,
+    "goalsFor": 91,
+    "goalsAgainst": 54,
     "goalsDifference": 37,
     "team": {
       "id": "jaén-fs",
@@ -151,6 +151,31 @@
   },
   {
     "points": 37,
+    "gamesPlayed": 26,
+    "gamesWon": 10,
+    "gamesDrawn": 7,
+    "gamesLost": 9,
+    "goalsFor": 75,
+    "goalsAgainst": 76,
+    "goalsDifference": -1,
+    "team": {
+      "id": "noia-portus-apostoli",
+      "name": "Noia Portus Apostoli",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/noia-fs.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
+    "points": 37,
     "gamesPlayed": 25,
     "gamesWon": 12,
     "gamesDrawn": 1,
@@ -175,39 +200,14 @@
     }
   },
   {
-    "points": 34,
-    "gamesPlayed": 25,
-    "gamesWon": 9,
-    "gamesDrawn": 7,
-    "gamesLost": 9,
-    "goalsFor": 71,
-    "goalsAgainst": 75,
-    "goalsDifference": -4,
-    "team": {
-      "id": "noia-portus-apostoli",
-      "name": "Noia Portus Apostoli",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/noia-fs.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
     "points": 28,
-    "gamesPlayed": 25,
+    "gamesPlayed": 26,
     "gamesWon": 8,
     "gamesDrawn": 4,
-    "gamesLost": 13,
-    "goalsFor": 51,
-    "goalsAgainst": 66,
-    "goalsDifference": -15,
+    "gamesLost": 14,
+    "goalsFor": 52,
+    "goalsAgainst": 70,
+    "goalsDifference": -18,
     "team": {
       "id": "xota-fs",
       "name": "Xota FS",
