@@ -156,8 +156,8 @@
     "gamesDrawn": 7,
     "gamesLost": 9,
     "goalsFor": 75,
-    "goalsAgainst": 76,
-    "goalsDifference": -1,
+    "goalsAgainst": 77,
+    "goalsDifference": -2,
     "team": {
       "id": "noia-portus-apostoli",
       "name": "Noia Portus Apostoli",
@@ -205,9 +205,9 @@
     "gamesWon": 8,
     "gamesDrawn": 4,
     "gamesLost": 14,
-    "goalsFor": 52,
+    "goalsFor": 53,
     "goalsAgainst": 70,
-    "goalsDifference": -18,
+    "goalsDifference": -17,
     "team": {
       "id": "xota-fs",
       "name": "Xota FS",
