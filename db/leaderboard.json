@@ -6,8 +6,8 @@
     "gamesDrawn": 5,
     "gamesLost": 4,
     "goalsFor": 118,
-    "goalsAgainst": 76,
-    "goalsDifference": 42,
+    "goalsAgainst": 77,
+    "goalsDifference": 41,
     "team": {
       "id": "mallorca-palma-futsal",
       "name": "Mallorca Palma Futsal",
@@ -200,39 +200,14 @@
     }
   },
   {
-    "points": 31,
-    "gamesPlayed": 27,
-    "gamesWon": 8,
-    "gamesDrawn": 7,
-    "gamesLost": 12,
-    "goalsFor": 75,
-    "goalsAgainst": 86,
-    "goalsDifference": -11,
-    "team": {
-      "id": "industrias-santa-coloma",
-      "name": "Industrias Santa Coloma",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/industrias-santa-coloma.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
     "points": 29,
     "gamesPlayed": 27,
     "gamesWon": 8,
     "gamesDrawn": 5,
     "gamesLost": 14,
-    "goalsFor": 82,
-    "goalsAgainst": 93,
-    "goalsDifference": -11,
+    "goalsFor": 83,
+    "goalsAgainst": 95,
+    "goalsDifference": -12,
     "team": {
       "id": "córdoba-patrimonio-humanidad",
       "name": "Córdoba Patrimonio de la Humanidad",
@@ -262,6 +237,31 @@
       "id": "manzanares-fs",
       "name": "Quesos Hidalgo Manzanares FS",
       "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/manzanares-fs.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
+    "points": 29,
+    "gamesPlayed": 27,
+    "gamesWon": 7,
+    "gamesDrawn": 8,
+    "gamesLost": 12,
+    "goalsFor": 75,
+    "goalsAgainst": 87,
+    "goalsDifference": -12,
+    "team": {
+      "id": "industrias-santa-coloma",
+      "name": "Industrias Santa Coloma",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/industrias-santa-coloma.svg",
       "web": "",
       "est": "",
       "president": "",
@@ -330,9 +330,9 @@
     "gamesWon": 6,
     "gamesDrawn": 6,
     "gamesLost": 15,
-    "goalsFor": 64,
+    "goalsFor": 65,
     "goalsAgainst": 92,
-    "goalsDifference": -28,
+    "goalsDifference": -27,
     "team": {
       "id": "besoccer-cd-uma-antequera",
       "name": "BeSoccer CD UMA Antequera",
@@ -350,14 +350,14 @@
     }
   },
   {
-    "points": 23,
+    "points": 24,
     "gamesPlayed": 27,
     "gamesWon": 6,
-    "gamesDrawn": 5,
-    "gamesLost": 16,
-    "goalsFor": 66,
+    "gamesDrawn": 6,
+    "gamesLost": 15,
+    "goalsFor": 67,
     "goalsAgainst": 95,
-    "goalsDifference": -29,
+    "goalsDifference": -28,
     "team": {
       "id": "ribera-navarra-fs",
       "name": "Ribera Navarra FS",
@@ -380,9 +380,9 @@
     "gamesWon": 6,
     "gamesDrawn": 1,
     "gamesLost": 20,
-    "goalsFor": 65,
-    "goalsAgainst": 101,
-    "goalsDifference": -36,
+    "goalsFor": 67,
+    "goalsAgainst": 102,
+    "goalsDifference": -35,
     "team": {
       "id": "levante-ud-fs",
       "name": "Levante UD FS",
