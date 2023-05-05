@@ -55,8 +55,8 @@
     "gamesWon": 17,
     "gamesDrawn": 6,
     "gamesLost": 5,
-    "goalsFor": 99,
-    "goalsAgainst": 62,
+    "goalsFor": 102,
+    "goalsAgainst": 65,
     "goalsDifference": 37,
     "team": {
       "id": "jaén-fs",
@@ -105,8 +105,8 @@
     "gamesWon": 15,
     "gamesDrawn": 5,
     "gamesLost": 8,
-    "goalsFor": 87,
-    "goalsAgainst": 64,
+    "goalsFor": 88,
+    "goalsAgainst": 65,
     "goalsDifference": 23,
     "team": {
       "id": "elpozo-murcia-costa-cálida",
@@ -130,8 +130,8 @@
     "gamesWon": 15,
     "gamesDrawn": 3,
     "gamesLost": 10,
-    "goalsFor": 96,
-    "goalsAgainst": 81,
+    "goalsFor": 98,
+    "goalsAgainst": 83,
     "goalsDifference": 15,
     "team": {
       "id": "inter-fs",
@@ -155,8 +155,8 @@
     "gamesWon": 12,
     "gamesDrawn": 3,
     "gamesLost": 13,
-    "goalsFor": 80,
-    "goalsAgainst": 88,
+    "goalsFor": 82,
+    "goalsAgainst": 90,
     "goalsDifference": -8,
     "team": {
       "id": "viña-albali-valdepeñas",
@@ -180,8 +180,8 @@
     "gamesWon": 10,
     "gamesDrawn": 8,
     "gamesLost": 10,
-    "goalsFor": 79,
-    "goalsAgainst": 82,
+    "goalsFor": 80,
+    "goalsAgainst": 83,
     "goalsDifference": -3,
     "team": {
       "id": "noia-portus-apostoli",
@@ -205,8 +205,8 @@
     "gamesWon": 8,
     "gamesDrawn": 7,
     "gamesLost": 13,
-    "goalsFor": 73,
-    "goalsAgainst": 86,
+    "goalsFor": 74,
+    "goalsAgainst": 87,
     "goalsDifference": -13,
     "team": {
       "id": "manzanares-fs",
@@ -230,8 +230,8 @@
     "gamesWon": 7,
     "gamesDrawn": 9,
     "gamesLost": 12,
-    "goalsFor": 75,
-    "goalsAgainst": 87,
+    "goalsFor": 76,
+    "goalsAgainst": 88,
     "goalsDifference": -12,
     "team": {
       "id": "industrias-santa-coloma",
@@ -280,8 +280,8 @@
     "gamesWon": 8,
     "gamesDrawn": 4,
     "gamesLost": 16,
-    "goalsFor": 55,
-    "goalsAgainst": 77,
+    "goalsFor": 58,
+    "goalsAgainst": 80,
     "goalsDifference": -22,
     "team": {
       "id": "xota-fs",
@@ -325,31 +325,6 @@
     }
   },
   {
-    "points": 25,
-    "gamesPlayed": 28,
-    "gamesWon": 6,
-    "gamesDrawn": 7,
-    "gamesLost": 15,
-    "goalsFor": 65,
-    "goalsAgainst": 92,
-    "goalsDifference": -27,
-    "team": {
-      "id": "besoccer-cd-uma-antequera",
-      "name": "BeSoccer CD UMA Antequera",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/cd-uma-antequera.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
     "points": 24,
     "gamesPlayed": 27,
     "gamesWon": 6,
@@ -375,14 +350,39 @@
     }
   },
   {
-    "points": 20,
+    "points": 24,
     "gamesPlayed": 28,
     "gamesWon": 6,
-    "gamesDrawn": 2,
+    "gamesDrawn": 6,
+    "gamesLost": 16,
+    "goalsFor": 65,
+    "goalsAgainst": 94,
+    "goalsDifference": -29,
+    "team": {
+      "id": "besoccer-cd-uma-antequera",
+      "name": "BeSoccer CD UMA Antequera",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/cd-uma-antequera.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
+    "points": 22,
+    "gamesPlayed": 28,
+    "gamesWon": 7,
+    "gamesDrawn": 1,
     "gamesLost": 20,
-    "goalsFor": 67,
+    "goalsFor": 69,
     "goalsAgainst": 102,
-    "goalsDifference": -35,
+    "goalsDifference": -33,
     "team": {
       "id": "levante-ud-fs",
       "name": "Levante UD FS",
