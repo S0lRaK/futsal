@@ -125,14 +125,14 @@
     }
   },
   {
-    "points": 47,
+    "points": 48,
     "gamesPlayed": 28,
     "gamesWon": 15,
-    "gamesDrawn": 2,
-    "gamesLost": 11,
-    "goalsFor": 98,
+    "gamesDrawn": 3,
+    "gamesLost": 10,
+    "goalsFor": 99,
     "goalsAgainst": 84,
-    "goalsDifference": 14,
+    "goalsDifference": 15,
     "team": {
       "id": "inter-fs",
       "name": "Inter FS",
@@ -150,14 +150,14 @@
     }
   },
   {
-    "points": 41,
+    "points": 39,
     "gamesPlayed": 28,
-    "gamesWon": 13,
-    "gamesDrawn": 2,
+    "gamesWon": 12,
+    "gamesDrawn": 3,
     "gamesLost": 13,
     "goalsFor": 83,
-    "goalsAgainst": 90,
-    "goalsDifference": -7,
+    "goalsAgainst": 91,
+    "goalsDifference": -8,
     "team": {
       "id": "viña-albali-valdepeñas",
       "name": "Viña Albali Valdepeñas",
@@ -175,18 +175,43 @@
     }
   },
   {
-    "points": 38,
+    "points": 37,
     "gamesPlayed": 28,
     "gamesWon": 10,
-    "gamesDrawn": 8,
-    "gamesLost": 10,
+    "gamesDrawn": 7,
+    "gamesLost": 11,
     "goalsFor": 81,
-    "goalsAgainst": 84,
-    "goalsDifference": -3,
+    "goalsAgainst": 85,
+    "goalsDifference": -4,
     "team": {
       "id": "noia-portus-apostoli",
       "name": "Noia Portus Apostoli",
       "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/noia-fs.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
+    "points": 33,
+    "gamesPlayed": 28,
+    "gamesWon": 9,
+    "gamesDrawn": 6,
+    "gamesLost": 13,
+    "goalsFor": 76,
+    "goalsAgainst": 88,
+    "goalsDifference": -12,
+    "team": {
+      "id": "manzanares-fs",
+      "name": "Quesos Hidalgo Manzanares FS",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/manzanares-fs.svg",
       "web": "",
       "est": "",
       "president": "",
@@ -212,31 +237,6 @@
       "id": "industrias-santa-coloma",
       "name": "Industrias Santa Coloma",
       "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/industrias-santa-coloma.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 31,
-    "gamesPlayed": 28,
-    "gamesWon": 8,
-    "gamesDrawn": 7,
-    "gamesLost": 13,
-    "goalsFor": 75,
-    "goalsAgainst": 88,
-    "goalsDifference": -13,
-    "team": {
-      "id": "manzanares-fs",
-      "name": "Quesos Hidalgo Manzanares FS",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/manzanares-fs.svg",
       "web": "",
       "est": "",
       "president": "",
