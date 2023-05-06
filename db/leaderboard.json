@@ -1,13 +1,13 @@
 [
   {
     "points": 63,
-    "gamesPlayed": 27,
+    "gamesPlayed": 28,
     "gamesWon": 20,
     "gamesDrawn": 3,
-    "gamesLost": 4,
-    "goalsFor": 111,
-    "goalsAgainst": 63,
-    "goalsDifference": 48,
+    "gamesLost": 5,
+    "goalsFor": 116,
+    "goalsAgainst": 70,
+    "goalsDifference": 46,
     "team": {
       "id": "barça",
       "name": "Barça",
@@ -75,14 +75,14 @@
     }
   },
   {
-    "points": 52,
-    "gamesPlayed": 27,
-    "gamesWon": 16,
+    "points": 55,
+    "gamesPlayed": 28,
+    "gamesWon": 17,
     "gamesDrawn": 4,
     "gamesLost": 7,
-    "goalsFor": 94,
-    "goalsAgainst": 78,
-    "goalsDifference": 16,
+    "goalsFor": 101,
+    "goalsAgainst": 83,
+    "goalsDifference": 18,
     "team": {
       "id": "jimbee-cartagena",
       "name": "Jimbee Cartagena",
@@ -251,13 +251,13 @@
   },
   {
     "points": 29,
-    "gamesPlayed": 27,
+    "gamesPlayed": 28,
     "gamesWon": 8,
     "gamesDrawn": 5,
-    "gamesLost": 14,
-    "goalsFor": 83,
-    "goalsAgainst": 95,
-    "goalsDifference": -12,
+    "gamesLost": 15,
+    "goalsFor": 85,
+    "goalsAgainst": 99,
+    "goalsDifference": -14,
     "team": {
       "id": "córdoba-patrimonio-humanidad",
       "name": "Córdoba Patrimonio de la Humanidad",
@@ -287,6 +287,31 @@
       "id": "xota-fs",
       "name": "Xota FS",
       "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/xota-fs.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
+    "points": 27,
+    "gamesPlayed": 28,
+    "gamesWon": 7,
+    "gamesDrawn": 6,
+    "gamesLost": 15,
+    "goalsFor": 71,
+    "goalsAgainst": 97,
+    "goalsDifference": -26,
+    "team": {
+      "id": "ribera-navarra-fs",
+      "name": "Ribera Navarra FS",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/ribera-navarra.svg",
       "web": "",
       "est": "",
       "president": "",
@@ -337,31 +362,6 @@
       "id": "besoccer-cd-uma-antequera",
       "name": "BeSoccer CD UMA Antequera",
       "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/cd-uma-antequera.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 24,
-    "gamesPlayed": 27,
-    "gamesWon": 6,
-    "gamesDrawn": 6,
-    "gamesLost": 15,
-    "goalsFor": 67,
-    "goalsAgainst": 95,
-    "goalsDifference": -28,
-    "team": {
-      "id": "ribera-navarra-fs",
-      "name": "Ribera Navarra FS",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/ribera-navarra.svg",
       "web": "",
       "est": "",
       "president": "",
