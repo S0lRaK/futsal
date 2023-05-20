@@ -1,13 +1,13 @@
 [
   {
     "points": 65,
-    "gamesPlayed": 29,
+    "gamesPlayed": 30,
     "gamesWon": 20,
     "gamesDrawn": 5,
-    "gamesLost": 4,
+    "gamesLost": 5,
     "goalsFor": 120,
-    "goalsAgainst": 78,
-    "goalsDifference": 42,
+    "goalsAgainst": 81,
+    "goalsDifference": 39,
     "team": {
       "id": "mallorca-palma-futsal",
       "name": "Mallorca Palma Futsal",
@@ -26,13 +26,13 @@
   },
   {
     "points": 64,
-    "gamesPlayed": 29,
+    "gamesPlayed": 30,
     "gamesWon": 20,
     "gamesDrawn": 4,
-    "gamesLost": 5,
-    "goalsFor": 118,
-    "goalsAgainst": 72,
-    "goalsDifference": 46,
+    "gamesLost": 6,
+    "goalsFor": 120,
+    "goalsAgainst": 77,
+    "goalsDifference": 43,
     "team": {
       "id": "barça",
       "name": "Barça",
@@ -50,14 +50,14 @@
     }
   },
   {
-    "points": 58,
-    "gamesPlayed": 29,
-    "gamesWon": 18,
+    "points": 61,
+    "gamesPlayed": 30,
+    "gamesWon": 19,
     "gamesDrawn": 4,
     "gamesLost": 7,
-    "goalsFor": 102,
+    "goalsFor": 105,
     "goalsAgainst": 83,
-    "goalsDifference": 19,
+    "goalsDifference": 22,
     "team": {
       "id": "jimbee-cartagena",
       "name": "Jimbee Cartagena",
@@ -75,14 +75,14 @@
     }
   },
   {
-    "points": 57,
-    "gamesPlayed": 29,
-    "gamesWon": 17,
+    "points": 60,
+    "gamesPlayed": 30,
+    "gamesWon": 18,
     "gamesDrawn": 6,
     "gamesLost": 6,
-    "goalsFor": 102,
-    "goalsAgainst": 66,
-    "goalsDifference": 36,
+    "goalsFor": 110,
+    "goalsAgainst": 68,
+    "goalsDifference": 42,
     "team": {
       "id": "jaén-fs",
       "name": "Jaén FS",
@@ -125,14 +125,14 @@
     }
   },
   {
-    "points": 49,
-    "gamesPlayed": 29,
-    "gamesWon": 15,
+    "points": 52,
+    "gamesPlayed": 30,
+    "gamesWon": 16,
     "gamesDrawn": 4,
     "gamesLost": 10,
-    "goalsFor": 101,
-    "goalsAgainst": 86,
-    "goalsDifference": 15,
+    "goalsFor": 106,
+    "goalsAgainst": 88,
+    "goalsDifference": 18,
     "team": {
       "id": "inter-fs",
       "name": "Inter FS",
@@ -150,14 +150,14 @@
     }
   },
   {
-    "points": 42,
-    "gamesPlayed": 29,
-    "gamesWon": 13,
+    "points": 45,
+    "gamesPlayed": 30,
+    "gamesWon": 14,
     "gamesDrawn": 3,
     "gamesLost": 13,
-    "goalsFor": 88,
-    "goalsAgainst": 95,
-    "goalsDifference": -7,
+    "goalsFor": 97,
+    "goalsAgainst": 96,
+    "goalsDifference": 1,
     "team": {
       "id": "viña-albali-valdepeñas",
       "name": "Viña Albali Valdepeñas",
@@ -176,13 +176,13 @@
   },
   {
     "points": 38,
-    "gamesPlayed": 29,
+    "gamesPlayed": 30,
     "gamesWon": 10,
     "gamesDrawn": 8,
-    "gamesLost": 11,
-    "goalsFor": 83,
-    "goalsAgainst": 87,
-    "goalsDifference": -4,
+    "gamesLost": 12,
+    "goalsFor": 84,
+    "goalsAgainst": 93,
+    "goalsDifference": -9,
     "team": {
       "id": "noia-portus-apostoli",
       "name": "Noia Portus Apostoli",
@@ -200,39 +200,14 @@
     }
   },
   {
-    "points": 34,
-    "gamesPlayed": 29,
+    "points": 35,
+    "gamesPlayed": 30,
     "gamesWon": 9,
-    "gamesDrawn": 7,
-    "gamesLost": 13,
-    "goalsFor": 78,
-    "goalsAgainst": 90,
-    "goalsDifference": -12,
-    "team": {
-      "id": "manzanares-fs",
-      "name": "Quesos Hidalgo Manzanares FS",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/manzanares-fs.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 32,
-    "gamesPlayed": 29,
-    "gamesWon": 8,
     "gamesDrawn": 8,
     "gamesLost": 13,
-    "goalsFor": 81,
-    "goalsAgainst": 93,
-    "goalsDifference": -12,
+    "goalsFor": 87,
+    "goalsAgainst": 94,
+    "goalsDifference": -7,
     "team": {
       "id": "industrias-santa-coloma",
       "name": "Industrias Santa Coloma",
@@ -250,14 +225,39 @@
     }
   },
   {
+    "points": 34,
+    "gamesPlayed": 30,
+    "gamesWon": 9,
+    "gamesDrawn": 7,
+    "gamesLost": 14,
+    "goalsFor": 80,
+    "goalsAgainst": 98,
+    "goalsDifference": -18,
+    "team": {
+      "id": "manzanares-fs",
+      "name": "Quesos Hidalgo Manzanares FS",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/manzanares-fs.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
     "points": 30,
-    "gamesPlayed": 29,
+    "gamesPlayed": 30,
     "gamesWon": 8,
     "gamesDrawn": 6,
-    "gamesLost": 15,
-    "goalsFor": 76,
-    "goalsAgainst": 98,
-    "goalsDifference": -22,
+    "gamesLost": 16,
+    "goalsFor": 78,
+    "goalsAgainst": 101,
+    "goalsDifference": -23,
     "team": {
       "id": "ribera-navarra-fs",
       "name": "Ribera Navarra FS",
@@ -276,34 +276,9 @@
   },
   {
     "points": 29,
-    "gamesPlayed": 29,
-    "gamesWon": 8,
-    "gamesDrawn": 5,
-    "gamesLost": 16,
-    "goalsFor": 86,
-    "goalsAgainst": 102,
-    "goalsDifference": -16,
-    "team": {
-      "id": "córdoba-patrimonio-humanidad",
-      "name": "Córdoba Patrimonio de la Humanidad",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/cordoba.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 28,
-    "gamesPlayed": 29,
+    "gamesPlayed": 30,
     "gamesWon": 6,
-    "gamesDrawn": 10,
+    "gamesDrawn": 11,
     "gamesLost": 13,
     "goalsFor": 84,
     "goalsAgainst": 104,
@@ -325,10 +300,35 @@
     }
   },
   {
-    "points": 28,
-    "gamesPlayed": 29,
+    "points": 29,
+    "gamesPlayed": 30,
     "gamesWon": 8,
-    "gamesDrawn": 4,
+    "gamesDrawn": 5,
+    "gamesLost": 17,
+    "goalsFor": 87,
+    "goalsAgainst": 111,
+    "goalsDifference": -24,
+    "team": {
+      "id": "córdoba-patrimonio-humanidad",
+      "name": "Córdoba Patrimonio de la Humanidad",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/cordoba.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
+    "points": 29,
+    "gamesPlayed": 30,
+    "gamesWon": 8,
+    "gamesDrawn": 5,
     "gamesLost": 17,
     "goalsFor": 59,
     "goalsAgainst": 82,
@@ -350,14 +350,14 @@
     }
   },
   {
-    "points": 26,
-    "gamesPlayed": 29,
-    "gamesWon": 6,
+    "points": 29,
+    "gamesPlayed": 30,
+    "gamesWon": 7,
     "gamesDrawn": 8,
     "gamesLost": 15,
-    "goalsFor": 71,
-    "goalsAgainst": 98,
-    "goalsDifference": -27,
+    "goalsFor": 74,
+    "goalsAgainst": 100,
+    "goalsDifference": -26,
     "team": {
       "id": "besoccer-cd-uma-antequera",
       "name": "BeSoccer CD UMA Antequera",
