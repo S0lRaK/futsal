@@ -1,6 +1,7 @@
 import * as cheerio from 'cheerio'
 
 import { getLeaderboard } from './leaderboard.js'
+import { getScorers } from './scorers.js'
 import { logError, logInfo, logSuccess } from './log.js'
 import { writeDBFile } from '../db/index.js'
 
@@ -8,6 +9,10 @@ export const SCRAPINGS = {
 	leaderboard: {
 		url: 'https://lnfs.es/competicion/primera/2023/clasificacion/1',
 		scraper: getLeaderboard
+	},
+	scorers: {
+		url: 'https://lnfs.es/competicion/primera/2023/goleadores/1',
+		scraper: getScorers
 	}
 }
 
