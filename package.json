@@ -1,6 +1,6 @@
 {
   "name": "futsal",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Futsal API and web",
   "main": "index.js",
   "type": "module",
