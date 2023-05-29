@@ -9,7 +9,8 @@ Project to create an API from the Spanish Futsal league and its website.
 Endpoints:
 
 - GET `/leaderboard`: returns the table from the First Division
-- GET `/teams`: returns the all the teams from the First Division
+- GET `/teams`: returns all the teams from the First Division
+- GET `/scorers`: returns the top 20 scorers from the First Division 
 
 ## Tech Stack
 
