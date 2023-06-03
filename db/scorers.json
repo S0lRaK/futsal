@@ -4,7 +4,7 @@
     "player": "Javier García Moreno",
     "position": "Ala",
     "goals": 31,
-    "gamesPlayed": 31,
+    "gamesPlayed": 32,
     "team": "Jaén FS",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jaen-fs.svg"
   },
@@ -40,7 +40,7 @@
     "player": "Cléber André Batista De Souza",
     "position": "Ala",
     "goals": 20,
-    "gamesPlayed": 32,
+    "gamesPlayed": 33,
     "team": "Mallorca Palma Futsal",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/palma-futsal.svg"
   },
@@ -94,7 +94,7 @@
     "player": "Matías Sebastián Rosa",
     "position": "Pívot",
     "goals": 18,
-    "gamesPlayed": 32,
+    "gamesPlayed": 33,
     "team": "Jaén FS",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jaen-fs.svg"
   },
@@ -175,7 +175,7 @@
     "player": "Hossein Tayebi Bidgoli",
     "position": "Pívot",
     "goals": 15,
-    "gamesPlayed": 27,
+    "gamesPlayed": 28,
     "team": "Mallorca Palma Futsal",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/palma-futsal.svg"
   }
