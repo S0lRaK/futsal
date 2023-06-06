@@ -3,7 +3,7 @@ import { serveStatic } from 'hono/serve-static.module'
 
 import leaderboard from '../db/leaderboard.json'
 import teams from '../db/teams.json'
-import scorers from '..db/scorers.json'
+import scorers from '../db/scorers.json'
 
 const app = new Hono()
 
