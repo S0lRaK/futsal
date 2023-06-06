@@ -3,8 +3,8 @@
     "rank": 1,
     "player": "Javier García Moreno",
     "position": "Ala",
-    "goals": 30,
-    "gamesPlayed": 30,
+    "goals": 31,
+    "gamesPlayed": 32,
     "team": "Jaén FS",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jaen-fs.svg"
   },
@@ -31,7 +31,7 @@
     "player": "Lucas Vinicius de Santana Brito",
     "position": "Ala",
     "goals": 21,
-    "gamesPlayed": 26,
+    "gamesPlayed": 27,
     "team": "Jimbee Cartagena",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jimbee-cartagena.svg"
   },
@@ -40,7 +40,7 @@
     "player": "Cléber André Batista De Souza",
     "position": "Ala",
     "goals": 20,
-    "gamesPlayed": 31,
+    "gamesPlayed": 33,
     "team": "Mallorca Palma Futsal",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/palma-futsal.svg"
   },
@@ -48,31 +48,40 @@
     "rank": 6,
     "player": "Sergio González Pérez",
     "position": "Ala",
-    "goals": 19,
-    "gamesPlayed": 31,
+    "goals": 20,
+    "gamesPlayed": 33,
     "team": "Barça",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/fc-barcelona.svg"
   },
   {
     "rank": 7,
-    "player": "Bruno Gomes Bispo do Nascimento",
-    "position": "Pívot",
-    "goals": 18,
-    "gamesPlayed": 26,
-    "team": "Noia Portus Apostoli",
-    "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/noia-fs.svg"
+    "player": "Eric Martel García",
+    "position": "Ala",
+    "goals": 19,
+    "gamesPlayed": 33,
+    "team": "Inter FS",
+    "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/inter-fs.svg"
   },
   {
     "rank": 8,
-    "player": "Eric Martel García",
+    "player": "Tomas Drahovsky",
     "position": "Ala",
-    "goals": 18,
-    "gamesPlayed": 31,
+    "goals": 19,
+    "gamesPlayed": 32,
     "team": "Inter FS",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/inter-fs.svg"
   },
   {
     "rank": 9,
+    "player": "Bruno Gomes Bispo do Nascimento",
+    "position": "Pívot",
+    "goals": 18,
+    "gamesPlayed": 27,
+    "team": "Noia Portus Apostoli",
+    "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/noia-fs.svg"
+  },
+  {
+    "rank": 10,
     "player": "Fernando Cobarro Giménez",
     "position": "Ala",
     "goals": 18,
@@ -81,25 +90,25 @@
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/cd-uma-antequera.svg"
   },
   {
-    "rank": 10,
+    "rank": 11,
     "player": "Matías Sebastián Rosa",
     "position": "Pívot",
     "goals": 18,
-    "gamesPlayed": 31,
+    "gamesPlayed": 33,
     "team": "Jaén FS",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jaen-fs.svg"
   },
   {
-    "rank": 11,
-    "player": "Tomas Drahovsky",
+    "rank": 12,
+    "player": "Gabriel Rodrigues Motta",
     "position": "Ala",
-    "goals": 18,
-    "gamesPlayed": 30,
-    "team": "Inter FS",
-    "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/inter-fs.svg"
+    "goals": 17,
+    "gamesPlayed": 32,
+    "team": "Jimbee Cartagena",
+    "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jimbee-cartagena.svg"
   },
   {
-    "rank": 12,
+    "rank": 13,
     "player": "Rafael Usín Guisado",
     "position": "Ala",
     "goals": 17,
@@ -108,16 +117,16 @@
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/levante-fs.svg"
   },
   {
-    "rank": 13,
+    "rank": 14,
     "player": "Adolfo Fernández Díaz",
     "position": "Ala",
     "goals": 16,
-    "gamesPlayed": 30,
+    "gamesPlayed": 32,
     "team": "Barça",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/fc-barcelona.svg"
   },
   {
-    "rank": 14,
+    "rank": 15,
     "player": "Albert Cardona Bayer",
     "position": "Ala",
     "goals": 16,
@@ -126,7 +135,7 @@
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/industrias-santa-coloma.svg"
   },
   {
-    "rank": 15,
+    "rank": 16,
     "player": "Dione Alex Veroneze",
     "position": "Ala",
     "goals": 16,
@@ -135,25 +144,25 @@
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/vina-albali-valdepenas.svg"
   },
   {
-    "rank": 16,
-    "player": "Gabriel Rodrigues Motta",
-    "position": "Ala",
-    "goals": 16,
-    "gamesPlayed": 31,
-    "team": "Jimbee Cartagena",
-    "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jimbee-cartagena.svg"
-  },
-  {
     "rank": 17,
     "player": "Matheus Rodrigues Cézar da Silva",
     "position": "Ala",
     "goals": 16,
-    "gamesPlayed": 25,
+    "gamesPlayed": 27,
     "team": "Barça",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/fc-barcelona.svg"
   },
   {
     "rank": 18,
+    "player": "Walter Fernandes da Costa Firmino",
+    "position": "Pívot",
+    "goals": 16,
+    "gamesPlayed": 32,
+    "team": "Jimbee Cartagena",
+    "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jimbee-cartagena.svg"
+  },
+  {
+    "rank": 19,
     "player": "Alejandro Verdejo Correa",
     "position": "Ala",
     "goals": 15,
@@ -162,21 +171,12 @@
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/industrias-santa-coloma.svg"
   },
   {
-    "rank": 19,
-    "player": "Walter Fernandes da Costa Firmino",
+    "rank": 20,
+    "player": "Hossein Tayebi Bidgoli",
     "position": "Pívot",
     "goals": 15,
-    "gamesPlayed": 31,
-    "team": "Jimbee Cartagena",
-    "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jimbee-cartagena.svg"
-  },
-  {
-    "rank": 20,
-    "player": "Carlos Bartolomé García",
-    "position": "Ala",
-    "goals": 14,
-    "gamesPlayed": 29,
-    "team": "Ribera Navarra FS",
-    "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/ribera-navarra.svg"
+    "gamesPlayed": 28,
+    "team": "Mallorca Palma Futsal",
+    "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/palma-futsal.svg"
   }
 ]
