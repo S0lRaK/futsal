@@ -4,7 +4,7 @@
     "player": "Javier García Moreno",
     "position": "Ala",
     "goals": 31,
-    "gamesPlayed": 32,
+    "gamesPlayed": 33,
     "team": "Jaén FS",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jaen-fs.svg"
   },
@@ -40,7 +40,7 @@
     "player": "Cléber André Batista De Souza",
     "position": "Ala",
     "goals": 20,
-    "gamesPlayed": 33,
+    "gamesPlayed": 34,
     "team": "Mallorca Palma Futsal",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/palma-futsal.svg"
   },
@@ -49,7 +49,7 @@
     "player": "Sergio González Pérez",
     "position": "Ala",
     "goals": 20,
-    "gamesPlayed": 33,
+    "gamesPlayed": 34,
     "team": "Barça",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/fc-barcelona.svg"
   },
@@ -58,7 +58,7 @@
     "player": "Eric Martel García",
     "position": "Ala",
     "goals": 19,
-    "gamesPlayed": 33,
+    "gamesPlayed": 34,
     "team": "Inter FS",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/inter-fs.svg"
   },
@@ -67,7 +67,7 @@
     "player": "Tomas Drahovsky",
     "position": "Ala",
     "goals": 19,
-    "gamesPlayed": 32,
+    "gamesPlayed": 33,
     "team": "Inter FS",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/inter-fs.svg"
   },
@@ -94,12 +94,21 @@
     "player": "Matías Sebastián Rosa",
     "position": "Pívot",
     "goals": 18,
-    "gamesPlayed": 33,
+    "gamesPlayed": 34,
     "team": "Jaén FS",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jaen-fs.svg"
   },
   {
     "rank": 12,
+    "player": "Adolfo Fernández Díaz",
+    "position": "Ala",
+    "goals": 17,
+    "gamesPlayed": 33,
+    "team": "Barça",
+    "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/fc-barcelona.svg"
+  },
+  {
+    "rank": 13,
     "player": "Gabriel Rodrigues Motta",
     "position": "Ala",
     "goals": 17,
@@ -108,22 +117,13 @@
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jimbee-cartagena.svg"
   },
   {
-    "rank": 13,
+    "rank": 14,
     "player": "Rafael Usín Guisado",
     "position": "Ala",
     "goals": 17,
     "gamesPlayed": 30,
     "team": "Levante UD FS",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/levante-fs.svg"
-  },
-  {
-    "rank": 14,
-    "player": "Adolfo Fernández Díaz",
-    "position": "Ala",
-    "goals": 16,
-    "gamesPlayed": 32,
-    "team": "Barça",
-    "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/fc-barcelona.svg"
   },
   {
     "rank": 15,
@@ -148,7 +148,7 @@
     "player": "Matheus Rodrigues Cézar da Silva",
     "position": "Ala",
     "goals": 16,
-    "gamesPlayed": 27,
+    "gamesPlayed": 28,
     "team": "Barça",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/fc-barcelona.svg"
   },
@@ -175,7 +175,7 @@
     "player": "Hossein Tayebi Bidgoli",
     "position": "Pívot",
     "goals": 15,
-    "gamesPlayed": 28,
+    "gamesPlayed": 29,
     "team": "Mallorca Palma Futsal",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/palma-futsal.svg"
   }
