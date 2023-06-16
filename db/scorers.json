@@ -4,7 +4,7 @@
     "player": "Javier García Moreno",
     "position": "Ala",
     "goals": 31,
-    "gamesPlayed": 33,
+    "gamesPlayed": 34,
     "team": "Jaén FS",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jaen-fs.svg"
   },
@@ -94,7 +94,7 @@
     "player": "Matías Sebastián Rosa",
     "position": "Pívot",
     "goals": 18,
-    "gamesPlayed": 34,
+    "gamesPlayed": 35,
     "team": "Jaén FS",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jaen-fs.svg"
   },
