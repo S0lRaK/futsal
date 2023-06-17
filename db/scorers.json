@@ -3,7 +3,7 @@
     "rank": 1,
     "player": "Javier García Moreno",
     "position": "Ala",
-    "goals": 31,
+    "goals": 32,
     "gamesPlayed": 34,
     "team": "Jaén FS",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jaen-fs.svg"
@@ -49,7 +49,7 @@
     "player": "Sergio González Pérez",
     "position": "Ala",
     "goals": 20,
-    "gamesPlayed": 34,
+    "gamesPlayed": 35,
     "team": "Barça",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/fc-barcelona.svg"
   },
@@ -103,7 +103,7 @@
     "player": "Adolfo Fernández Díaz",
     "position": "Ala",
     "goals": 17,
-    "gamesPlayed": 33,
+    "gamesPlayed": 34,
     "team": "Barça",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/fc-barcelona.svg"
   },
@@ -118,6 +118,15 @@
   },
   {
     "rank": 14,
+    "player": "Matheus Rodrigues Cézar da Silva",
+    "position": "Ala",
+    "goals": 17,
+    "gamesPlayed": 29,
+    "team": "Barça",
+    "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/fc-barcelona.svg"
+  },
+  {
+    "rank": 15,
     "player": "Rafael Usín Guisado",
     "position": "Ala",
     "goals": 17,
@@ -126,7 +135,7 @@
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/levante-fs.svg"
   },
   {
-    "rank": 15,
+    "rank": 16,
     "player": "Albert Cardona Bayer",
     "position": "Ala",
     "goals": 16,
@@ -135,22 +144,13 @@
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/industrias-santa-coloma.svg"
   },
   {
-    "rank": 16,
+    "rank": 17,
     "player": "Dione Alex Veroneze",
     "position": "Ala",
     "goals": 16,
     "gamesPlayed": 27,
     "team": "Viña Albali Valdepeñas",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/vina-albali-valdepenas.svg"
-  },
-  {
-    "rank": 17,
-    "player": "Matheus Rodrigues Cézar da Silva",
-    "position": "Ala",
-    "goals": 16,
-    "gamesPlayed": 28,
-    "team": "Barça",
-    "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/fc-barcelona.svg"
   },
   {
     "rank": 18,
