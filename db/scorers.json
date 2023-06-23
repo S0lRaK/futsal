@@ -28,21 +28,21 @@
   },
   {
     "rank": 4,
+    "player": "Sergio González Pérez",
+    "position": "Ala",
+    "goals": 22,
+    "gamesPlayed": 37,
+    "team": "Barça",
+    "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/fc-barcelona.svg"
+  },
+  {
+    "rank": 5,
     "player": "Lucas Vinicius de Santana Brito",
     "position": "Ala",
     "goals": 21,
     "gamesPlayed": 27,
     "team": "Jimbee Cartagena",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jimbee-cartagena.svg"
-  },
-  {
-    "rank": 5,
-    "player": "Sergio González Pérez",
-    "position": "Ala",
-    "goals": 21,
-    "gamesPlayed": 37,
-    "team": "Barça",
-    "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/fc-barcelona.svg"
   },
   {
     "rank": 6,
