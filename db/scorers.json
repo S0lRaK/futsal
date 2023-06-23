@@ -4,7 +4,7 @@
     "player": "Javier García Moreno",
     "position": "Ala",
     "goals": 32,
-    "gamesPlayed": 34,
+    "gamesPlayed": 36,
     "team": "Jaén FS",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jaen-fs.svg"
   },
@@ -37,21 +37,21 @@
   },
   {
     "rank": 5,
+    "player": "Sergio González Pérez",
+    "position": "Ala",
+    "goals": 21,
+    "gamesPlayed": 37,
+    "team": "Barça",
+    "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/fc-barcelona.svg"
+  },
+  {
+    "rank": 6,
     "player": "Cléber André Batista De Souza",
     "position": "Ala",
     "goals": 20,
     "gamesPlayed": 34,
     "team": "Mallorca Palma Futsal",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/palma-futsal.svg"
-  },
-  {
-    "rank": 6,
-    "player": "Sergio González Pérez",
-    "position": "Ala",
-    "goals": 20,
-    "gamesPlayed": 35,
-    "team": "Barça",
-    "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/fc-barcelona.svg"
   },
   {
     "rank": 7,
@@ -91,15 +91,24 @@
   },
   {
     "rank": 11,
+    "player": "Matheus Rodrigues Cézar da Silva",
+    "position": "Ala",
+    "goals": 18,
+    "gamesPlayed": 31,
+    "team": "Barça",
+    "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/fc-barcelona.svg"
+  },
+  {
+    "rank": 12,
     "player": "Matías Sebastián Rosa",
     "position": "Pívot",
     "goals": 18,
-    "gamesPlayed": 35,
+    "gamesPlayed": 36,
     "team": "Jaén FS",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jaen-fs.svg"
   },
   {
-    "rank": 12,
+    "rank": 13,
     "player": "Adolfo Fernández Díaz",
     "position": "Ala",
     "goals": 17,
@@ -108,22 +117,13 @@
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/fc-barcelona.svg"
   },
   {
-    "rank": 13,
+    "rank": 14,
     "player": "Gabriel Rodrigues Motta",
     "position": "Ala",
     "goals": 17,
     "gamesPlayed": 32,
     "team": "Jimbee Cartagena",
     "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jimbee-cartagena.svg"
-  },
-  {
-    "rank": 14,
-    "player": "Matheus Rodrigues Cézar da Silva",
-    "position": "Ala",
-    "goals": 17,
-    "gamesPlayed": 29,
-    "team": "Barça",
-    "teamLogo": "https://futsal-api.carlosjgc.workers.dev/static/logos/fc-barcelona.svg"
   },
   {
     "rank": 15,
