@@ -9,7 +9,8 @@
 		"test",
 		"config",
 		"assets",
-		"web"
+		"web",
+		"worker"
 	],
 	"eslint.validate": [
 		"javascript",
