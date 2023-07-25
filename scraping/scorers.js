@@ -1,5 +1,5 @@
+import { getTeamLogo } from 'db/index.js'
 import { cleanText } from './utils.js'
-import TEAMS from '../db/teams.json' assert { type: 'json' }
 
 const SCORERS_SELECTORS = {
 	rank: { selector: '> :nth-child(1)', typeOf: 'number' },
@@ -12,11 +12,6 @@ const SCORERS_SELECTORS = {
 
 export async function getScorers ($) {
 	const $rows = $('table tbody tr')
-
-	const getTeamLogo = ({ name }) => {
-		const { logo } = TEAMS.find((team) => team.name === name)
-		return logo
-	}
 
 	const scorersSelectorsEntries = Object.entries(SCORERS_SELECTORS)
 	const scorers = []
