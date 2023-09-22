@@ -7,11 +7,11 @@ import { writeDBFile } from '../db/index.js'
 
 export const SCRAPINGS = {
 	leaderboard: {
-		url: 'https://lnfs.es/competicion/primera/2023/clasificacion/1',
+		url: 'https://lnfs.es/competicion/primera/2024/clasificacion/1',
 		scraper: getLeaderboard
 	},
 	scorers: {
-		url: 'https://lnfs.es/competicion/primera/2023/goleadores/1',
+		url: 'https://lnfs.es/competicion/primera/2024/goleadores/1',
 		scraper: getScorers
 	}
 }
