@@ -15,9 +15,9 @@
     "social": []
   },
   {
-    "id": "besoccer-cd-uma-antequera",
-    "name": "BeSoccer CD UMA Antequera",
-    "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/cd-uma-antequera.svg",
+    "id": "alzira-fs",
+    "name": "Alzira FS",
+    "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/alzira.webp",
     "web": "",
     "est": "",
     "president": "",
@@ -120,9 +120,9 @@
     "social": []
   },
   {
-    "id": "levante-ud-fs",
-    "name": "Levante UD FS",
-    "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/levante-fs.svg",
+    "id": "peñíscola-fs",
+    "name": "Peñíscola FS",
+    "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/peniscola.webp",
     "web": "",
     "est": "",
     "president": "",
