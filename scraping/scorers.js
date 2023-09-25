@@ -1,4 +1,4 @@
-import { getTeamLogo } from 'db/index.js'
+import { getTeamLogo } from '../db/index.js'
 import { cleanText } from './utils.js'
 
 const SCORERS_SELECTORS = {
