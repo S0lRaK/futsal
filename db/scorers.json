@@ -57,6 +57,14 @@
   },
   {
     "rank": 8,
+    "player": "Bruno Gomes Bispo do Nascimento",
+    "position": "Pívot",
+    "goals": 3,
+    "gamesPlayed": 5,
+    "team": "Mallorca Palma Futsal"
+  },
+  {
+    "rank": 9,
     "player": "David Álvarez Munteis",
     "position": "Ala",
     "goals": 3,
@@ -64,7 +72,7 @@
     "team": "ElPozo Murcia Costa Cálida"
   },
   {
-    "rank": 9,
+    "rank": 10,
     "player": "Diego Quintela Carril",
     "position": "Pívot",
     "goals": 3,
@@ -72,7 +80,7 @@
     "team": "Peñíscola FS"
   },
   {
-    "rank": 10,
+    "rank": 11,
     "player": "Diego Sancho Bonet",
     "position": "Pívot",
     "goals": 3,
@@ -80,7 +88,7 @@
     "team": "Peñíscola FS"
   },
   {
-    "rank": 11,
+    "rank": 12,
     "player": "Ezequiel Montero Jiménez",
     "position": "Ala",
     "goals": 3,
@@ -88,7 +96,7 @@
     "team": "Córdoba Patrimonio de la Humanidad"
   },
   {
-    "rank": 12,
+    "rank": 13,
     "player": "Fábio Augusto Carneiro dos Santos",
     "position": "Ala",
     "goals": 3,
@@ -96,7 +104,7 @@
     "team": "Mallorca Palma Futsal"
   },
   {
-    "rank": 13,
+    "rank": 14,
     "player": "Felipe Valerio Pascual",
     "position": "Cierre",
     "goals": 3,
@@ -104,7 +112,7 @@
     "team": "ElPozo Murcia Costa Cálida"
   },
   {
-    "rank": 14,
+    "rank": 15,
     "player": "Francisco Paniagua Soler",
     "position": "Ala",
     "goals": 3,
@@ -112,7 +120,7 @@
     "team": "Peñíscola FS"
   },
   {
-    "rank": 15,
+    "rank": 16,
     "player": "Gabriel Rodrigues Motta",
     "position": "Ala",
     "goals": 3,
@@ -120,7 +128,7 @@
     "team": "Jimbee Cartagena"
   },
   {
-    "rank": 16,
+    "rank": 17,
     "player": "Javier García Moreno",
     "position": "Ala",
     "goals": 3,
@@ -128,7 +136,7 @@
     "team": "Jaén FS"
   },
   {
-    "rank": 17,
+    "rank": 18,
     "player": "Jean Pierre Guisel Costa",
     "position": "Pívot",
     "goals": 3,
@@ -136,7 +144,7 @@
     "team": "Barça"
   },
   {
-    "rank": 18,
+    "rank": 19,
     "player": "Juan Carlos Delgado Fernández",
     "position": "Pívot",
     "goals": 3,
@@ -144,17 +152,9 @@
     "team": "Alzira FS"
   },
   {
-    "rank": 19,
+    "rank": 20,
     "player": "Marcel De Mendoça Marques",
     "position": "Ala",
-    "goals": 3,
-    "gamesPlayed": 4,
-    "team": "ElPozo Murcia Costa Cálida"
-  },
-  {
-    "rank": 20,
-    "player": "Rafael dos Santos",
-    "position": "Pívot",
     "goals": 3,
     "gamesPlayed": 4,
     "team": "ElPozo Murcia Costa Cálida"
