@@ -145,18 +145,18 @@
   },
   {
     "rank": 19,
+    "player": "Jesús García del Pino Gordillo",
+    "position": "Pívot",
+    "goals": 3,
+    "gamesPlayed": 3,
+    "team": "Mallorca Palma Futsal"
+  },
+  {
+    "rank": 20,
     "player": "Juan Carlos Delgado Fernández",
     "position": "Pívot",
     "goals": 3,
     "gamesPlayed": 3,
     "team": "Alzira FS"
-  },
-  {
-    "rank": 20,
-    "player": "Marcel De Mendoça Marques",
-    "position": "Ala",
-    "goals": 3,
-    "gamesPlayed": 4,
-    "team": "ElPozo Murcia Costa Cálida"
   }
 ]
