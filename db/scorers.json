@@ -3,20 +3,60 @@
     "rank": 1,
     "player": "Hossein Tayebi Bidgoli",
     "position": "Pívot",
-    "goals": 4,
-    "gamesPlayed": 3,
+    "goals": 5,
+    "gamesPlayed": 5,
     "team": "Mallorca Palma Futsal"
   },
   {
     "rank": 2,
-    "player": "Alejandro Verdejo Correa",
+    "player": "Lucas Benincasa Perin",
     "position": "Ala",
-    "goals": 3,
-    "gamesPlayed": 3,
-    "team": "Industrias Santa Coloma"
+    "goals": 5,
+    "gamesPlayed": 4,
+    "team": "Córdoba Patrimonio de la Humanidad"
   },
   {
     "rank": 3,
+    "player": "Alejandro Verdejo Correa",
+    "position": "Ala",
+    "goals": 4,
+    "gamesPlayed": 4,
+    "team": "Industrias Santa Coloma"
+  },
+  {
+    "rank": 4,
+    "player": "Francisco José Cortés Hernández",
+    "position": "Ala",
+    "goals": 4,
+    "gamesPlayed": 4,
+    "team": "Quesos Hidalgo Manzanares FS"
+  },
+  {
+    "rank": 5,
+    "player": "Juan José Camacho Pérez",
+    "position": "Ala",
+    "goals": 4,
+    "gamesPlayed": 4,
+    "team": "Barça"
+  },
+  {
+    "rank": 6,
+    "player": "Albert Cardona Bayer",
+    "position": "Ala",
+    "goals": 3,
+    "gamesPlayed": 4,
+    "team": "Industrias Santa Coloma"
+  },
+  {
+    "rank": 7,
+    "player": "Cléber André Batista De Souza",
+    "position": "Ala",
+    "goals": 3,
+    "gamesPlayed": 5,
+    "team": "Mallorca Palma Futsal"
+  },
+  {
+    "rank": 8,
     "player": "Diego Quintela Carril",
     "position": "Pívot",
     "goals": 3,
@@ -24,7 +64,7 @@
     "team": "Peñíscola FS"
   },
   {
-    "rank": 4,
+    "rank": 9,
     "player": "Diego Sancho Bonet",
     "position": "Pívot",
     "goals": 3,
@@ -32,31 +72,31 @@
     "team": "Peñíscola FS"
   },
   {
-    "rank": 5,
+    "rank": 10,
     "player": "Ezequiel Montero Jiménez",
     "position": "Ala",
     "goals": 3,
-    "gamesPlayed": 3,
+    "gamesPlayed": 4,
     "team": "Córdoba Patrimonio de la Humanidad"
   },
   {
-    "rank": 6,
+    "rank": 11,
+    "player": "Fábio Augusto Carneiro dos Santos",
+    "position": "Ala",
+    "goals": 3,
+    "gamesPlayed": 4,
+    "team": "Mallorca Palma Futsal"
+  },
+  {
+    "rank": 12,
     "player": "Felipe Valerio Pascual",
     "position": "Cierre",
     "goals": 3,
-    "gamesPlayed": 3,
+    "gamesPlayed": 4,
     "team": "ElPozo Murcia Costa Cálida"
   },
   {
-    "rank": 7,
-    "player": "Francisco José Cortés Hernández",
-    "position": "Ala",
-    "goals": 3,
-    "gamesPlayed": 3,
-    "team": "Quesos Hidalgo Manzanares FS"
-  },
-  {
-    "rank": 8,
+    "rank": 13,
     "player": "Francisco Paniagua Soler",
     "position": "Ala",
     "goals": 3,
@@ -64,7 +104,7 @@
     "team": "Peñíscola FS"
   },
   {
-    "rank": 9,
+    "rank": 14,
     "player": "Gabriel Rodrigues Motta",
     "position": "Ala",
     "goals": 3,
@@ -72,7 +112,7 @@
     "team": "Jimbee Cartagena"
   },
   {
-    "rank": 10,
+    "rank": 15,
     "player": "Javier García Moreno",
     "position": "Ala",
     "goals": 3,
@@ -80,7 +120,15 @@
     "team": "Jaén FS"
   },
   {
-    "rank": 11,
+    "rank": 16,
+    "player": "Jean Pierre Guisel Costa",
+    "position": "Pívot",
+    "goals": 3,
+    "gamesPlayed": 4,
+    "team": "Barça"
+  },
+  {
+    "rank": 17,
     "player": "Juan Carlos Delgado Fernández",
     "position": "Pívot",
     "goals": 3,
@@ -88,75 +136,27 @@
     "team": "Alzira FS"
   },
   {
-    "rank": 12,
-    "player": "Juan José Camacho Pérez",
-    "position": "Ala",
-    "goals": 3,
-    "gamesPlayed": 3,
-    "team": "Barça"
-  },
-  {
-    "rank": 13,
-    "player": "Lucas Benincasa Perin",
-    "position": "Ala",
-    "goals": 3,
-    "gamesPlayed": 3,
-    "team": "Córdoba Patrimonio de la Humanidad"
-  },
-  {
-    "rank": 14,
-    "player": "Terry Prestjord",
-    "position": "Ala",
-    "goals": 3,
-    "gamesPlayed": 3,
-    "team": "Inter FS"
-  },
-  {
-    "rank": 15,
-    "player": "Walter Fernandes da Costa Firmino",
-    "position": "Pívot",
-    "goals": 3,
-    "gamesPlayed": 3,
-    "team": "Jimbee Cartagena"
-  },
-  {
-    "rank": 16,
-    "player": "Adrián Rodríguez Mosteirín",
-    "position": "Pívot",
-    "goals": 2,
-    "gamesPlayed": 3,
-    "team": "Noia Portus Apostoli"
-  },
-  {
-    "rank": 17,
-    "player": "Agustín Luciano Raggiati",
-    "position": "Cierre",
-    "goals": 2,
-    "gamesPlayed": 2,
-    "team": "Noia Portus Apostoli"
-  },
-  {
     "rank": 18,
-    "player": "Albert Cardona Bayer",
+    "player": "Marcel De Mendoça Marques",
     "position": "Ala",
-    "goals": 2,
-    "gamesPlayed": 3,
-    "team": "Industrias Santa Coloma"
+    "goals": 3,
+    "gamesPlayed": 4,
+    "team": "ElPozo Murcia Costa Cálida"
   },
   {
     "rank": 19,
-    "player": "Alejandro Naranjo Lerma",
-    "position": "Ala",
-    "goals": 2,
-    "gamesPlayed": 3,
-    "team": "Alzira FS"
+    "player": "Rafael dos Santos",
+    "position": "Pívot",
+    "goals": 3,
+    "gamesPlayed": 4,
+    "team": "ElPozo Murcia Costa Cálida"
   },
   {
     "rank": 20,
-    "player": "Anás El Ayanne Fahmi",
+    "player": "Terry Prestjord",
     "position": "Ala",
-    "goals": 2,
-    "gamesPlayed": 3,
-    "team": "Ribera Navarra FS"
+    "goals": 3,
+    "gamesPlayed": 4,
+    "team": "Inter FS"
   }
 ]
