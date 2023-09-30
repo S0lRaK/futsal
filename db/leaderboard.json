@@ -131,6 +131,31 @@
     "gamesDrawn": 1,
     "gamesLost": 1,
     "goalsFor": 13,
+    "goalsAgainst": 9,
+    "goalsDifference": 4,
+    "team": {
+      "id": "jimbee-cartagena",
+      "name": "Jimbee Cartagena",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jimbee-cartagena.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
+    "points": 7,
+    "gamesPlayed": 4,
+    "gamesWon": 2,
+    "gamesDrawn": 1,
+    "gamesLost": 1,
+    "goalsFor": 13,
     "goalsAgainst": 11,
     "goalsDifference": 2,
     "team": {
@@ -200,43 +225,18 @@
     }
   },
   {
-    "points": 5,
+    "points": 4,
     "gamesPlayed": 4,
     "gamesWon": 1,
-    "gamesDrawn": 2,
-    "gamesLost": 1,
+    "gamesDrawn": 1,
+    "gamesLost": 2,
     "goalsFor": 9,
-    "goalsAgainst": 5,
-    "goalsDifference": 4,
+    "goalsAgainst": 7,
+    "goalsDifference": 2,
     "team": {
       "id": "jaén-fs",
       "name": "Jaén FS",
       "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jaen-fs.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 5,
-    "gamesPlayed": 4,
-    "gamesWon": 1,
-    "gamesDrawn": 2,
-    "gamesLost": 1,
-    "goalsFor": 11,
-    "goalsAgainst": 9,
-    "goalsDifference": 2,
-    "team": {
-      "id": "jimbee-cartagena",
-      "name": "Jimbee Cartagena",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jimbee-cartagena.svg",
       "web": "",
       "est": "",
       "president": "",
