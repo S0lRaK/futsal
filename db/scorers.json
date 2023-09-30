@@ -97,6 +97,14 @@
   },
   {
     "rank": 13,
+    "player": "Carlos Bartolomé García",
+    "position": "Ala",
+    "goals": 3,
+    "gamesPlayed": 4,
+    "team": "Ribera Navarra FS"
+  },
+  {
+    "rank": 14,
     "player": "David Álvarez Munteis",
     "position": "Ala",
     "goals": 3,
@@ -104,7 +112,7 @@
     "team": "ElPozo Murcia Costa Cálida"
   },
   {
-    "rank": 14,
+    "rank": 15,
     "player": "David Pazos Fuentes",
     "position": "Ala",
     "goals": 3,
@@ -112,7 +120,7 @@
     "team": "Noia Portus Apostoli"
   },
   {
-    "rank": 15,
+    "rank": 16,
     "player": "Diego Sancho Bonet",
     "position": "Pívot",
     "goals": 3,
@@ -120,7 +128,7 @@
     "team": "Peñíscola FS"
   },
   {
-    "rank": 16,
+    "rank": 17,
     "player": "Eric Martel García",
     "position": "Ala",
     "goals": 3,
@@ -128,7 +136,7 @@
     "team": "Viña Albali Valdepeñas"
   },
   {
-    "rank": 17,
+    "rank": 18,
     "player": "Ezequiel Montero Jiménez",
     "position": "Ala",
     "goals": 3,
@@ -136,7 +144,7 @@
     "team": "Córdoba Patrimonio de la Humanidad"
   },
   {
-    "rank": 18,
+    "rank": 19,
     "player": "Fábio Augusto Carneiro dos Santos",
     "position": "Ala",
     "goals": 3,
@@ -144,19 +152,11 @@
     "team": "Mallorca Palma Futsal"
   },
   {
-    "rank": 19,
+    "rank": 20,
     "player": "Felipe Valerio Pascual",
     "position": "Cierre",
     "goals": 3,
     "gamesPlayed": 4,
     "team": "ElPozo Murcia Costa Cálida"
-  },
-  {
-    "rank": 20,
-    "player": "Francisco Paniagua Soler",
-    "position": "Ala",
-    "goals": 3,
-    "gamesPlayed": 4,
-    "team": "Peñíscola FS"
   }
 ]
