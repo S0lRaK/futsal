@@ -50,6 +50,31 @@
     }
   },
   {
+    "points": 10,
+    "gamesPlayed": 5,
+    "gamesWon": 3,
+    "gamesDrawn": 1,
+    "gamesLost": 1,
+    "goalsFor": 22,
+    "goalsAgainst": 17,
+    "goalsDifference": 5,
+    "team": {
+      "id": "barça",
+      "name": "Barça",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/fc-barcelona.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
     "points": 9,
     "gamesPlayed": 4,
     "gamesWon": 3,
@@ -80,13 +105,13 @@
     "gamesWon": 2,
     "gamesDrawn": 1,
     "gamesLost": 1,
-    "goalsFor": 14,
-    "goalsAgainst": 12,
-    "goalsDifference": 2,
+    "goalsFor": 21,
+    "goalsAgainst": 15,
+    "goalsDifference": 6,
     "team": {
-      "id": "barça",
-      "name": "Barça",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/fc-barcelona.svg",
+      "id": "peñíscola-fs",
+      "name": "Peñíscola FS",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/peniscola.webp",
       "web": "",
       "est": "",
       "president": "",
@@ -151,37 +176,12 @@
   },
   {
     "points": 6,
-    "gamesPlayed": 3,
-    "gamesWon": 2,
-    "gamesDrawn": 0,
-    "gamesLost": 1,
-    "goalsFor": 16,
-    "goalsAgainst": 10,
-    "goalsDifference": 6,
-    "team": {
-      "id": "peñíscola-fs",
-      "name": "Peñíscola FS",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/peniscola.webp",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 5,
-    "gamesPlayed": 3,
+    "gamesPlayed": 4,
     "gamesWon": 1,
-    "gamesDrawn": 2,
+    "gamesDrawn": 3,
     "gamesLost": 0,
-    "goalsFor": 7,
-    "goalsAgainst": 6,
+    "goalsFor": 10,
+    "goalsAgainst": 9,
     "goalsDifference": 1,
     "team": {
       "id": "xota-fs",
@@ -200,10 +200,10 @@
     }
   },
   {
-    "points": 4,
-    "gamesPlayed": 3,
+    "points": 5,
+    "gamesPlayed": 4,
     "gamesWon": 1,
-    "gamesDrawn": 1,
+    "gamesDrawn": 2,
     "gamesLost": 1,
     "goalsFor": 9,
     "goalsAgainst": 5,
@@ -225,10 +225,10 @@
     }
   },
   {
-    "points": 4,
-    "gamesPlayed": 3,
+    "points": 5,
+    "gamesPlayed": 4,
     "gamesWon": 1,
-    "gamesDrawn": 1,
+    "gamesDrawn": 2,
     "gamesLost": 1,
     "goalsFor": 11,
     "goalsAgainst": 9,
@@ -250,13 +250,13 @@
     }
   },
   {
-    "points": 2,
-    "gamesPlayed": 3,
+    "points": 3,
+    "gamesPlayed": 4,
     "gamesWon": 0,
-    "gamesDrawn": 2,
+    "gamesDrawn": 3,
     "gamesLost": 1,
-    "goalsFor": 7,
-    "goalsAgainst": 8,
+    "goalsFor": 12,
+    "goalsAgainst": 13,
     "goalsDifference": -1,
     "team": {
       "id": "viña-albali-valdepeñas",
@@ -275,14 +275,39 @@
     }
   },
   {
+    "points": 2,
+    "gamesPlayed": 4,
+    "gamesWon": 0,
+    "gamesDrawn": 2,
+    "gamesLost": 2,
+    "goalsFor": 11,
+    "goalsAgainst": 18,
+    "goalsDifference": -7,
+    "team": {
+      "id": "ribera-navarra-fs",
+      "name": "Ribera Navarra FS",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/ribera-navarra.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
     "points": 1,
-    "gamesPlayed": 3,
+    "gamesPlayed": 4,
     "gamesWon": 0,
     "gamesDrawn": 1,
-    "gamesLost": 2,
-    "goalsFor": 8,
-    "goalsAgainst": 11,
-    "goalsDifference": -3,
+    "gamesLost": 3,
+    "goalsFor": 13,
+    "goalsAgainst": 19,
+    "goalsDifference": -6,
     "team": {
       "id": "noia-portus-apostoli",
       "name": "Noia Portus Apostoli",
@@ -326,37 +351,12 @@
   },
   {
     "points": 1,
-    "gamesPlayed": 3,
+    "gamesPlayed": 4,
     "gamesWon": 0,
     "gamesDrawn": 1,
-    "gamesLost": 2,
-    "goalsFor": 8,
-    "goalsAgainst": 15,
-    "goalsDifference": -7,
-    "team": {
-      "id": "ribera-navarra-fs",
-      "name": "Ribera Navarra FS",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/ribera-navarra.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 0,
-    "gamesPlayed": 3,
-    "gamesWon": 0,
-    "gamesDrawn": 0,
     "gamesLost": 3,
-    "goalsFor": 9,
-    "goalsAgainst": 16,
+    "goalsFor": 12,
+    "goalsAgainst": 19,
     "goalsDifference": -7,
     "team": {
       "id": "alzira-fs",
@@ -375,13 +375,13 @@
     }
   },
   {
-    "points": 0,
-    "gamesPlayed": 3,
+    "points": 1,
+    "gamesPlayed": 4,
     "gamesWon": 0,
-    "gamesDrawn": 0,
+    "gamesDrawn": 1,
     "gamesLost": 3,
-    "goalsFor": 6,
-    "goalsAgainst": 19,
+    "goalsFor": 9,
+    "goalsAgainst": 22,
     "goalsDifference": -13,
     "team": {
       "id": "real-betis-futsal",
