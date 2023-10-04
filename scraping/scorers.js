@@ -2,7 +2,7 @@ import { getTeamLogo } from '../db/index.js'
 import { cleanText } from './utils.js'
 
 const SCORERS_SELECTORS = {
-	rank: { selector: '> :nth-child(1)', typeOf: 'number' },
+	ranking: { selector: '> :nth-child(1)', typeOf: 'number' },
 	player: { selector: '> :nth-child(3) a p', typeOf: 'string' },
 	position: { selector: '> :nth-child(5)', typeOf: 'string' },
 	goals: { selector: '> :nth-child(6)', typeOf: 'number' },
@@ -29,7 +29,7 @@ export async function getScorers ($) {
 
 		scorers.push({
 			...scorersData,
-			rank: index + 1,
+			ranking: index + 1,
 			team: teamName,
 			teamLogo
 		})
