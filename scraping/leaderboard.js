@@ -13,7 +13,7 @@ const LEADERBOARD_SELECTORS = {
 	goalsDifference: { selector: '> :nth-child(11)', typeOf: 'number' }
 }
 
-export async function getLeaderboard($) {
+export async function getLeaderboard ($) {
 	const $rows = $('table tbody tr')
 
 	const getTeam = ({ name }) => TEAMS.find((team) => team.name === name)
@@ -23,8 +23,9 @@ export async function getLeaderboard($) {
 	const leaderboard = []
 
 	$rows.each((index, element) => {
+		const $element = $(element)
 		const leaderboardEntries = leaderboardSelectorsEntries.map(([key, { selector, typeOf }]) => {
-			const rawValue = $(element).find(selector).text()
+			const rawValue = $element.find(selector).text()
 			const valueCleaned = cleanText(rawValue)
 
 			const value = typeOf === 'number' ? Number(valueCleaned) : valueCleaned

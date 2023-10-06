@@ -17,8 +17,9 @@ export async function getScorers ($) {
 	const scorers = []
 
 	$rows.each((index, element) => {
+		const $element = $(element)
 		const scorersEntries = scorersSelectorsEntries.map(([key, { selector, typeOf }]) => {
-			const rawValue = $(element).find(selector).text()
+			const rawValue = $element.find(selector).text()
 			const valueCleaned = cleanText(rawValue)
 			const value = typeOf === 'number' ? Number(valueCleaned) : valueCleaned
 			return [key, value]
