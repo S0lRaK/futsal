@@ -51,13 +51,13 @@
   },
   {
     "points": 12,
-    "gamesPlayed": 5,
+    "gamesPlayed": 6,
     "gamesWon": 4,
     "gamesDrawn": 0,
-    "gamesLost": 1,
-    "goalsFor": 25,
-    "goalsAgainst": 17,
-    "goalsDifference": 8,
+    "gamesLost": 2,
+    "goalsFor": 27,
+    "goalsAgainst": 21,
+    "goalsDifference": 6,
     "team": {
       "id": "mallorca-palma-futsal",
       "name": "Mallorca Palma Futsal",
@@ -87,6 +87,31 @@
       "id": "manzanares-fs",
       "name": "Quesos Hidalgo Manzanares FS",
       "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/manzanares-fs.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
+    "points": 10,
+    "gamesPlayed": 5,
+    "gamesWon": 3,
+    "gamesDrawn": 1,
+    "gamesLost": 1,
+    "goalsFor": 17,
+    "goalsAgainst": 11,
+    "goalsDifference": 6,
+    "team": {
+      "id": "jimbee-cartagena",
+      "name": "Jimbee Cartagena",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jimbee-cartagena.svg",
       "web": "",
       "est": "",
       "president": "",
@@ -187,31 +212,6 @@
       "id": "peñíscola-fs",
       "name": "Peñíscola FS",
       "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/peniscola.webp",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 7,
-    "gamesPlayed": 4,
-    "gamesWon": 2,
-    "gamesDrawn": 1,
-    "gamesLost": 1,
-    "goalsFor": 13,
-    "goalsAgainst": 9,
-    "goalsDifference": 4,
-    "team": {
-      "id": "jimbee-cartagena",
-      "name": "Jimbee Cartagena",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jimbee-cartagena.svg",
       "web": "",
       "est": "",
       "president": "",
