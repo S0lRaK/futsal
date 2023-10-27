@@ -105,6 +105,31 @@
     "gamesWon": 4,
     "gamesDrawn": 1,
     "gamesLost": 2,
+    "goalsFor": 35,
+    "goalsAgainst": 25,
+    "goalsDifference": 10,
+    "team": {
+      "id": "peñíscola-fs",
+      "name": "Peñíscola FS",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/peniscola.webp",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
+    "points": 13,
+    "gamesPlayed": 7,
+    "gamesWon": 4,
+    "gamesDrawn": 1,
+    "gamesLost": 2,
     "goalsFor": 28,
     "goalsAgainst": 20,
     "goalsDifference": 8,
@@ -125,13 +150,13 @@
     }
   },
   {
-    "points": 11,
-    "gamesPlayed": 6,
+    "points": 12,
+    "gamesPlayed": 7,
     "gamesWon": 3,
-    "gamesDrawn": 2,
+    "gamesDrawn": 3,
     "gamesLost": 1,
-    "goalsFor": 21,
-    "goalsAgainst": 15,
+    "goalsFor": 23,
+    "goalsAgainst": 17,
     "goalsDifference": 6,
     "team": {
       "id": "jimbee-cartagena",
@@ -151,42 +176,17 @@
   },
   {
     "points": 11,
-    "gamesPlayed": 7,
+    "gamesPlayed": 8,
     "gamesWon": 3,
     "gamesDrawn": 2,
-    "gamesLost": 2,
-    "goalsFor": 20,
-    "goalsAgainst": 21,
-    "goalsDifference": -1,
+    "gamesLost": 3,
+    "goalsFor": 22,
+    "goalsAgainst": 27,
+    "goalsDifference": -5,
     "team": {
       "id": "córdoba-patrimonio-humanidad",
       "name": "Córdoba Patrimonio de la Humanidad",
       "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/cordoba.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 10,
-    "gamesPlayed": 6,
-    "gamesWon": 3,
-    "gamesDrawn": 1,
-    "gamesLost": 2,
-    "goalsFor": 31,
-    "goalsAgainst": 23,
-    "goalsDifference": 8,
-    "team": {
-      "id": "peñíscola-fs",
-      "name": "Peñíscola FS",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/peniscola.webp",
       "web": "",
       "est": "",
       "president": "",
@@ -212,6 +212,31 @@
       "id": "inter-fs",
       "name": "Inter FS",
       "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/inter-fs.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
+    "points": 8,
+    "gamesPlayed": 8,
+    "gamesWon": 2,
+    "gamesDrawn": 2,
+    "gamesLost": 4,
+    "goalsFor": 28,
+    "goalsAgainst": 33,
+    "goalsDifference": -5,
+    "team": {
+      "id": "industrias-santa-coloma",
+      "name": "Industrias Santa Coloma",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/industrias-santa-coloma.svg",
       "web": "",
       "est": "",
       "president": "",
@@ -276,13 +301,13 @@
   },
   {
     "points": 7,
-    "gamesPlayed": 6,
+    "gamesPlayed": 7,
     "gamesWon": 2,
     "gamesDrawn": 1,
-    "gamesLost": 3,
-    "goalsFor": 18,
-    "goalsAgainst": 27,
-    "goalsDifference": -9,
+    "gamesLost": 4,
+    "goalsFor": 20,
+    "goalsAgainst": 31,
+    "goalsDifference": -11,
     "team": {
       "id": "real-betis-futsal",
       "name": "Real Betis Futsal",
@@ -337,31 +362,6 @@
       "id": "jaén-fs",
       "name": "Jaén FS",
       "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jaen-fs.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 4,
-    "gamesPlayed": 6,
-    "gamesWon": 1,
-    "gamesDrawn": 1,
-    "gamesLost": 4,
-    "goalsFor": 20,
-    "goalsAgainst": 29,
-    "goalsDifference": -9,
-    "team": {
-      "id": "industrias-santa-coloma",
-      "name": "Industrias Santa Coloma",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/industrias-santa-coloma.svg",
       "web": "",
       "est": "",
       "president": "",
