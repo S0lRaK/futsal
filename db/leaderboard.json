@@ -76,13 +76,38 @@
   },
   {
     "points": 15,
-    "gamesPlayed": 7,
+    "gamesPlayed": 8,
+    "gamesWon": 4,
+    "gamesDrawn": 3,
+    "gamesLost": 1,
+    "goalsFor": 28,
+    "goalsAgainst": 20,
+    "goalsDifference": 8,
+    "team": {
+      "id": "jimbee-cartagena",
+      "name": "Jimbee Cartagena",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jimbee-cartagena.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
+    "points": 15,
+    "gamesPlayed": 8,
     "gamesWon": 5,
     "gamesDrawn": 0,
-    "gamesLost": 2,
-    "goalsFor": 24,
-    "goalsAgainst": 22,
-    "goalsDifference": 2,
+    "gamesLost": 3,
+    "goalsFor": 27,
+    "goalsAgainst": 27,
+    "goalsDifference": 0,
     "team": {
       "id": "manzanares-fs",
       "name": "Quesos Hidalgo Manzanares FS",
@@ -137,31 +162,6 @@
       "id": "elpozo-murcia-costa-cálida",
       "name": "ElPozo Murcia Costa Cálida",
       "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/elpozo-murcia.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 12,
-    "gamesPlayed": 7,
-    "gamesWon": 3,
-    "gamesDrawn": 3,
-    "gamesLost": 1,
-    "goalsFor": 23,
-    "goalsAgainst": 17,
-    "goalsDifference": 6,
-    "team": {
-      "id": "jimbee-cartagena",
-      "name": "Jimbee Cartagena",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jimbee-cartagena.svg",
       "web": "",
       "est": "",
       "president": "",
