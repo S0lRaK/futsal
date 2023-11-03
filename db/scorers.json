@@ -33,14 +33,22 @@
   },
   {
     "ranking": 5,
-    "player": "Jhonatan Henrique Linhares",
+    "player": "Gabriel Rodrigues Motta",
     "position": "Ala",
     "goals": 7,
-    "gamesPlayed": 8,
-    "team": "Xota FS"
+    "gamesPlayed": 9,
+    "team": "Jimbee Cartagena"
   },
   {
     "ranking": 6,
+    "player": "Jhonatan Henrique Linhares",
+    "position": "Ala",
+    "goals": 7,
+    "gamesPlayed": 9,
+    "team": "Xota FS"
+  },
+  {
+    "ranking": 7,
     "player": "Lucas Benincasa Perin",
     "position": "Ala",
     "goals": 7,
@@ -48,36 +56,28 @@
     "team": "Córdoba Patrimonio de la Humanidad"
   },
   {
-    "ranking": 7,
+    "ranking": 8,
     "player": "Alejandro Verdejo Correa",
     "position": "Ala",
     "goals": 6,
-    "gamesPlayed": 8,
-    "team": "Industrias Santa Coloma"
-  },
-  {
-    "ranking": 8,
-    "player": "David Peña Romero",
-    "position": "Ala",
-    "goals": 6,
-    "gamesPlayed": 8,
+    "gamesPlayed": 9,
     "team": "Industrias Santa Coloma"
   },
   {
     "ranking": 9,
-    "player": "Fabio Junior de Lima",
+    "player": "David Peña Romero",
     "position": "Ala",
     "goals": 6,
-    "gamesPlayed": 8,
-    "team": "Xota FS"
+    "gamesPlayed": 9,
+    "team": "Industrias Santa Coloma"
   },
   {
     "ranking": 10,
-    "player": "Gabriel Rodrigues Motta",
+    "player": "Fabio Junior de Lima",
     "position": "Ala",
     "goals": 6,
-    "gamesPlayed": 8,
-    "team": "Jimbee Cartagena"
+    "gamesPlayed": 9,
+    "team": "Xota FS"
   },
   {
     "ranking": 11,
