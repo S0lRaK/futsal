@@ -17,6 +17,14 @@
   },
   {
     "ranking": 3,
+    "player": "Eloy Rojas Gómez",
+    "position": "Ala",
+    "goals": 11,
+    "gamesPlayed": 13,
+    "team": "Viña Albali Valdepeñas"
+  },
+  {
+    "ranking": 4,
     "player": "Jean Pierre Guisel Costa",
     "position": "Pívot",
     "goals": 11,
@@ -24,7 +32,7 @@
     "team": "Barça"
   },
   {
-    "ranking": 4,
+    "ranking": 5,
     "player": "Juan José Camacho Pérez",
     "position": "Ala",
     "goals": 11,
@@ -32,20 +40,12 @@
     "team": "Barça"
   },
   {
-    "ranking": 5,
+    "ranking": 6,
     "player": "Marcel De Mendoça Marques",
     "position": "Ala",
     "goals": 11,
-    "gamesPlayed": 12,
+    "gamesPlayed": 13,
     "team": "ElPozo Murcia Costa Cálida"
-  },
-  {
-    "ranking": 6,
-    "player": "Eloy Rojas Gómez",
-    "position": "Ala",
-    "goals": 10,
-    "gamesPlayed": 12,
-    "team": "Viña Albali Valdepeñas"
   },
   {
     "ranking": 7,
@@ -60,7 +60,7 @@
     "player": "Hossein Tayebi Bidgoli",
     "position": "Pívot",
     "goals": 10,
-    "gamesPlayed": 12,
+    "gamesPlayed": 13,
     "team": "Mallorca Palma Futsal"
   },
   {
@@ -116,7 +116,7 @@
     "player": "Cléber André Batista De Souza",
     "position": "Ala",
     "goals": 8,
-    "gamesPlayed": 13,
+    "gamesPlayed": 14,
     "team": "Mallorca Palma Futsal"
   },
   {
@@ -124,11 +124,19 @@
     "player": "Fábio Augusto Carneiro dos Santos",
     "position": "Ala",
     "goals": 8,
-    "gamesPlayed": 12,
+    "gamesPlayed": 13,
     "team": "Mallorca Palma Futsal"
   },
   {
     "ranking": 17,
+    "player": "Fabricio Bastezini",
+    "position": "Ala",
+    "goals": 8,
+    "gamesPlayed": 13,
+    "team": "ElPozo Murcia Costa Cálida"
+  },
+  {
+    "ranking": 18,
     "player": "Jhonatan Henrique Linhares",
     "position": "Ala",
     "goals": 8,
@@ -136,7 +144,7 @@
     "team": "Xota FS"
   },
   {
-    "ranking": 18,
+    "ranking": 19,
     "player": "Raúl Gómez del Olmo",
     "position": "Ala",
     "goals": 8,
@@ -144,19 +152,11 @@
     "team": "Inter FS"
   },
   {
-    "ranking": 19,
+    "ranking": 20,
     "player": "Terry Prestjord",
     "position": "Ala",
     "goals": 8,
     "gamesPlayed": 13,
     "team": "Inter FS"
-  },
-  {
-    "ranking": 20,
-    "player": "Daniel López López",
-    "position": "Ala",
-    "goals": 7,
-    "gamesPlayed": 11,
-    "team": "Jaén FS"
   }
 ]
