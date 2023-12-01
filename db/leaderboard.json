@@ -76,13 +76,13 @@
   },
   {
     "points": 25,
-    "gamesPlayed": 13,
+    "gamesPlayed": 14,
     "gamesWon": 7,
     "gamesDrawn": 4,
-    "gamesLost": 2,
-    "goalsFor": 50,
-    "goalsAgainst": 38,
-    "goalsDifference": 12,
+    "gamesLost": 3,
+    "goalsFor": 52,
+    "goalsAgainst": 41,
+    "goalsDifference": 11,
     "team": {
       "id": "elpozo-murcia-costa-cálida",
       "name": "ElPozo Murcia Costa Cálida",
@@ -101,13 +101,13 @@
   },
   {
     "points": 24,
-    "gamesPlayed": 13,
+    "gamesPlayed": 14,
     "gamesWon": 7,
     "gamesDrawn": 3,
-    "gamesLost": 3,
-    "goalsFor": 45,
-    "goalsAgainst": 30,
-    "goalsDifference": 15,
+    "gamesLost": 4,
+    "goalsFor": 47,
+    "goalsAgainst": 33,
+    "goalsDifference": 14,
     "team": {
       "id": "inter-fs",
       "name": "Inter FS",
@@ -175,6 +175,31 @@
     }
   },
   {
+    "points": 21,
+    "gamesPlayed": 14,
+    "gamesWon": 6,
+    "gamesDrawn": 3,
+    "gamesLost": 5,
+    "goalsFor": 49,
+    "goalsAgainst": 48,
+    "goalsDifference": 1,
+    "team": {
+      "id": "industrias-santa-coloma",
+      "name": "Industrias Santa Coloma",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/industrias-santa-coloma.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
     "points": 19,
     "gamesPlayed": 13,
     "gamesWon": 6,
@@ -225,31 +250,6 @@
     }
   },
   {
-    "points": 18,
-    "gamesPlayed": 13,
-    "gamesWon": 5,
-    "gamesDrawn": 3,
-    "gamesLost": 5,
-    "goalsFor": 46,
-    "goalsAgainst": 46,
-    "goalsDifference": 0,
-    "team": {
-      "id": "industrias-santa-coloma",
-      "name": "Industrias Santa Coloma",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/industrias-santa-coloma.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
     "points": 15,
     "gamesPlayed": 13,
     "gamesWon": 4,
@@ -275,14 +275,14 @@
     }
   },
   {
-    "points": 11,
-    "gamesPlayed": 13,
-    "gamesWon": 2,
+    "points": 14,
+    "gamesPlayed": 14,
+    "gamesWon": 3,
     "gamesDrawn": 5,
     "gamesLost": 6,
-    "goalsFor": 45,
-    "goalsAgainst": 50,
-    "goalsDifference": -5,
+    "goalsFor": 48,
+    "goalsAgainst": 52,
+    "goalsDifference": -4,
     "team": {
       "id": "viña-albali-valdepeñas",
       "name": "Viña Albali Valdepeñas",
