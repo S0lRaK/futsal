@@ -3,12 +3,20 @@
     "ranking": 1,
     "player": "Daniel Gabriel García",
     "position": "Pívot",
-    "goals": 12,
-    "gamesPlayed": 13,
+    "goals": 13,
+    "gamesPlayed": 14,
     "team": "Quesos Hidalgo Manzanares FS"
   },
   {
     "ranking": 2,
+    "player": "Adrián Rodríguez Mosteirín",
+    "position": "Pívot",
+    "goals": 11,
+    "gamesPlayed": 14,
+    "team": "Noia Portus Apostoli"
+  },
+  {
+    "ranking": 3,
     "player": "Diego Quintela Carril",
     "position": "Pívot",
     "goals": 11,
@@ -16,7 +24,7 @@
     "team": "Peñíscola FS"
   },
   {
-    "ranking": 3,
+    "ranking": 4,
     "player": "Eloy Rojas Gómez",
     "position": "Ala",
     "goals": 11,
@@ -24,7 +32,7 @@
     "team": "Viña Albali Valdepeñas"
   },
   {
-    "ranking": 4,
+    "ranking": 5,
     "player": "Jean Pierre Guisel Costa",
     "position": "Pívot",
     "goals": 11,
@@ -32,7 +40,7 @@
     "team": "Barça"
   },
   {
-    "ranking": 5,
+    "ranking": 6,
     "player": "Juan José Camacho Pérez",
     "position": "Ala",
     "goals": 11,
@@ -40,7 +48,7 @@
     "team": "Barça"
   },
   {
-    "ranking": 6,
+    "ranking": 7,
     "player": "Marcel De Mendoça Marques",
     "position": "Ala",
     "goals": 11,
@@ -48,7 +56,7 @@
     "team": "ElPozo Murcia Costa Cálida"
   },
   {
-    "ranking": 7,
+    "ranking": 8,
     "player": "Francisco Paniagua Soler",
     "position": "Ala",
     "goals": 10,
@@ -56,7 +64,7 @@
     "team": "Peñíscola FS"
   },
   {
-    "ranking": 8,
+    "ranking": 9,
     "player": "Hossein Tayebi Bidgoli",
     "position": "Pívot",
     "goals": 10,
@@ -64,7 +72,7 @@
     "team": "Mallorca Palma Futsal"
   },
   {
-    "ranking": 9,
+    "ranking": 10,
     "player": "Khalid Bouzid Stitou",
     "position": "Ala",
     "goals": 10,
@@ -72,7 +80,15 @@
     "team": "Industrias Santa Coloma"
   },
   {
-    "ranking": 10,
+    "ranking": 11,
+    "player": "Lucas Benincasa Perin",
+    "position": "Ala",
+    "goals": 10,
+    "gamesPlayed": 13,
+    "team": "Córdoba Patrimonio de la Humanidad"
+  },
+  {
+    "ranking": 12,
     "player": "Adolfo Fernández Díaz",
     "position": "Ala",
     "goals": 9,
@@ -80,7 +96,7 @@
     "team": "Barça"
   },
   {
-    "ranking": 11,
+    "ranking": 13,
     "player": "Alejandro Verdejo Correa",
     "position": "Ala",
     "goals": 9,
@@ -88,23 +104,23 @@
     "team": "Industrias Santa Coloma"
   },
   {
-    "ranking": 12,
+    "ranking": 14,
     "player": "Francisco José Cortés Hernández",
     "position": "Ala",
     "goals": 9,
-    "gamesPlayed": 11,
+    "gamesPlayed": 12,
     "team": "Quesos Hidalgo Manzanares FS"
   },
   {
-    "ranking": 13,
-    "player": "Lucas Benincasa Perin",
+    "ranking": 15,
+    "player": "Jhonatan Henrique Linhares",
     "position": "Ala",
     "goals": 9,
-    "gamesPlayed": 12,
-    "team": "Córdoba Patrimonio de la Humanidad"
+    "gamesPlayed": 14,
+    "team": "Xota FS"
   },
   {
-    "ranking": 14,
+    "ranking": 16,
     "player": "Rafael dos Santos",
     "position": "Pívot",
     "goals": 9,
@@ -112,7 +128,7 @@
     "team": "ElPozo Murcia Costa Cálida"
   },
   {
-    "ranking": 15,
+    "ranking": 17,
     "player": "Raúl Gómez del Olmo",
     "position": "Ala",
     "goals": 9,
@@ -120,15 +136,7 @@
     "team": "Inter FS"
   },
   {
-    "ranking": 16,
-    "player": "Adrián Rodríguez Mosteirín",
-    "position": "Pívot",
-    "goals": 8,
-    "gamesPlayed": 13,
-    "team": "Noia Portus Apostoli"
-  },
-  {
-    "ranking": 17,
+    "ranking": 18,
     "player": "Cléber André Batista De Souza",
     "position": "Ala",
     "goals": 8,
@@ -136,7 +144,7 @@
     "team": "Mallorca Palma Futsal"
   },
   {
-    "ranking": 18,
+    "ranking": 19,
     "player": "Fábio Augusto Carneiro dos Santos",
     "position": "Ala",
     "goals": 8,
@@ -144,19 +152,11 @@
     "team": "Mallorca Palma Futsal"
   },
   {
-    "ranking": 19,
+    "ranking": 20,
     "player": "Fabricio Bastezini",
     "position": "Ala",
     "goals": 8,
     "gamesPlayed": 14,
     "team": "ElPozo Murcia Costa Cálida"
-  },
-  {
-    "ranking": 20,
-    "player": "Jhonatan Henrique Linhares",
-    "position": "Ala",
-    "goals": 8,
-    "gamesPlayed": 13,
-    "team": "Xota FS"
   }
 ]
