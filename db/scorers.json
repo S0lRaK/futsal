@@ -1,26 +1,26 @@
 [
   {
     "ranking": 1,
-    "player": "Jean Pierre Guisel Costa",
+    "player": "Daniel Gabriel García",
     "position": "Pívot",
-    "goals": 15,
-    "gamesPlayed": 15,
-    "team": "Barça"
+    "goals": 16,
+    "gamesPlayed": 17,
+    "team": "Quesos Hidalgo Manzanares FS"
   },
   {
     "ranking": 2,
-    "player": "Daniel Gabriel García",
+    "player": "Jean Pierre Guisel Costa",
     "position": "Pívot",
-    "goals": 14,
+    "goals": 15,
     "gamesPlayed": 16,
-    "team": "Quesos Hidalgo Manzanares FS"
+    "team": "Barça"
   },
   {
     "ranking": 3,
     "player": "Marcel De Mendoça Marques",
     "position": "Ala",
-    "goals": 14,
-    "gamesPlayed": 16,
+    "goals": 15,
+    "gamesPlayed": 17,
     "team": "ElPozo Murcia Costa Cálida"
   },
   {
@@ -33,14 +33,22 @@
   },
   {
     "ranking": 5,
-    "player": "Adrián Rodríguez Mosteirín",
-    "position": "Pívot",
-    "goals": 12,
-    "gamesPlayed": 16,
-    "team": "Noia Portus Apostoli"
+    "player": "Francisco Paniagua Soler",
+    "position": "Ala",
+    "goals": 13,
+    "gamesPlayed": 17,
+    "team": "Peñíscola FS"
   },
   {
     "ranking": 6,
+    "player": "Adrián Rodríguez Mosteirín",
+    "position": "Pívot",
+    "goals": 12,
+    "gamesPlayed": 17,
+    "team": "Noia Portus Apostoli"
+  },
+  {
+    "ranking": 7,
     "player": "Alejandro Verdejo Correa",
     "position": "Ala",
     "goals": 12,
@@ -48,7 +56,7 @@
     "team": "Industrias Santa Coloma"
   },
   {
-    "ranking": 7,
+    "ranking": 8,
     "player": "Khalid Bouzid Stitou",
     "position": "Ala",
     "goals": 12,
@@ -56,19 +64,11 @@
     "team": "Industrias Santa Coloma"
   },
   {
-    "ranking": 8,
+    "ranking": 9,
     "player": "Diego Quintela Carril",
     "position": "Pívot",
     "goals": 11,
-    "gamesPlayed": 16,
-    "team": "Peñíscola FS"
-  },
-  {
-    "ranking": 9,
-    "player": "Francisco Paniagua Soler",
-    "position": "Ala",
-    "goals": 11,
-    "gamesPlayed": 16,
+    "gamesPlayed": 17,
     "team": "Peñíscola FS"
   },
   {
@@ -84,7 +84,7 @@
     "player": "Raúl Gómez del Olmo",
     "position": "Ala",
     "goals": 11,
-    "gamesPlayed": 16,
+    "gamesPlayed": 17,
     "team": "Inter FS"
   },
   {
@@ -92,7 +92,7 @@
     "player": "Francisco José Cortés Hernández",
     "position": "Ala",
     "goals": 10,
-    "gamesPlayed": 14,
+    "gamesPlayed": 15,
     "team": "Quesos Hidalgo Manzanares FS"
   },
   {
@@ -100,7 +100,7 @@
     "player": "Hossein Tayebi Bidgoli",
     "position": "Pívot",
     "goals": 10,
-    "gamesPlayed": 13,
+    "gamesPlayed": 14,
     "team": "Mallorca Palma Futsal"
   },
   {
@@ -124,7 +124,7 @@
     "player": "Lucas Benincasa Perin",
     "position": "Ala",
     "goals": 10,
-    "gamesPlayed": 14,
+    "gamesPlayed": 15,
     "team": "Córdoba Patrimonio de la Humanidad"
   },
   {
@@ -140,7 +140,7 @@
     "player": "Adolfo Fernández Díaz",
     "position": "Ala",
     "goals": 9,
-    "gamesPlayed": 14,
+    "gamesPlayed": 15,
     "team": "Barça"
   },
   {
@@ -148,15 +148,15 @@
     "player": "Fabricio Bastezini",
     "position": "Ala",
     "goals": 9,
-    "gamesPlayed": 16,
+    "gamesPlayed": 17,
     "team": "ElPozo Murcia Costa Cálida"
   },
   {
     "ranking": 20,
-    "player": "Matías Sebastián Rosa",
-    "position": "Pívot",
+    "player": "Gabriel Rodrigues Motta",
+    "position": "Ala",
     "goals": 9,
-    "gamesPlayed": 17,
-    "team": "Jaén FS"
+    "gamesPlayed": 13,
+    "team": "Jimbee Cartagena"
   }
 ]
