@@ -1,12 +1,12 @@
 [
   {
-    "points": 38,
-    "gamesPlayed": 17,
-    "gamesWon": 12,
+    "points": 41,
+    "gamesPlayed": 19,
+    "gamesWon": 13,
     "gamesDrawn": 2,
-    "gamesLost": 3,
-    "goalsFor": 62,
-    "goalsAgainst": 49,
+    "gamesLost": 4,
+    "goalsFor": 67,
+    "goalsAgainst": 54,
     "goalsDifference": 13,
     "team": {
       "id": "barça",
@@ -25,14 +25,14 @@
     }
   },
   {
-    "points": 32,
-    "gamesPlayed": 17,
-    "gamesWon": 9,
+    "points": 35,
+    "gamesPlayed": 19,
+    "gamesWon": 10,
     "gamesDrawn": 5,
-    "gamesLost": 3,
-    "goalsFor": 65,
-    "goalsAgainst": 46,
-    "goalsDifference": 19,
+    "gamesLost": 4,
+    "goalsFor": 73,
+    "goalsAgainst": 50,
+    "goalsDifference": 23,
     "team": {
       "id": "elpozo-murcia-costa-cálida",
       "name": "ElPozo Murcia Costa Cálida",
@@ -50,64 +50,14 @@
     }
   },
   {
-    "points": 31,
-    "gamesPlayed": 17,
-    "gamesWon": 10,
-    "gamesDrawn": 1,
-    "gamesLost": 6,
-    "goalsFor": 66,
-    "goalsAgainst": 60,
-    "goalsDifference": 6,
-    "team": {
-      "id": "mallorca-palma-futsal",
-      "name": "Mallorca Palma Futsal",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/palma-futsal.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 30,
-    "gamesPlayed": 17,
-    "gamesWon": 8,
-    "gamesDrawn": 6,
-    "gamesLost": 3,
-    "goalsFor": 53,
-    "goalsAgainst": 37,
-    "goalsDifference": 16,
-    "team": {
-      "id": "jimbee-cartagena",
-      "name": "Jimbee Cartagena",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jimbee-cartagena.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 29,
-    "gamesPlayed": 17,
-    "gamesWon": 9,
+    "points": 35,
+    "gamesPlayed": 19,
+    "gamesWon": 11,
     "gamesDrawn": 2,
     "gamesLost": 6,
-    "goalsFor": 54,
-    "goalsAgainst": 37,
-    "goalsDifference": 17,
+    "goalsFor": 62,
+    "goalsAgainst": 42,
+    "goalsDifference": 20,
     "team": {
       "id": "jaén-fs",
       "name": "Jaén FS",
@@ -125,13 +75,63 @@
     }
   },
   {
-    "points": 28,
-    "gamesPlayed": 17,
+    "points": 33,
+    "gamesPlayed": 19,
     "gamesWon": 9,
+    "gamesDrawn": 6,
+    "gamesLost": 4,
+    "goalsFor": 59,
+    "goalsAgainst": 44,
+    "goalsDifference": 15,
+    "team": {
+      "id": "jimbee-cartagena",
+      "name": "Jimbee Cartagena",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jimbee-cartagena.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
+    "points": 31,
+    "gamesPlayed": 19,
+    "gamesWon": 10,
     "gamesDrawn": 1,
-    "gamesLost": 7,
-    "goalsFor": 60,
-    "goalsAgainst": 59,
+    "gamesLost": 8,
+    "goalsFor": 71,
+    "goalsAgainst": 70,
+    "goalsDifference": 1,
+    "team": {
+      "id": "mallorca-palma-futsal",
+      "name": "Mallorca Palma Futsal",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/palma-futsal.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
+    "points": 31,
+    "gamesPlayed": 19,
+    "gamesWon": 10,
+    "gamesDrawn": 1,
+    "gamesLost": 8,
+    "goalsFor": 68,
+    "goalsAgainst": 67,
     "goalsDifference": 1,
     "team": {
       "id": "manzanares-fs",
@@ -150,89 +150,14 @@
     }
   },
   {
-    "points": 25,
-    "gamesPlayed": 17,
-    "gamesWon": 7,
-    "gamesDrawn": 4,
-    "gamesLost": 6,
-    "goalsFor": 52,
-    "goalsAgainst": 44,
-    "goalsDifference": 8,
-    "team": {
-      "id": "inter-fs",
-      "name": "Inter FS",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/inter-fs.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 25,
-    "gamesPlayed": 17,
-    "gamesWon": 7,
-    "gamesDrawn": 4,
-    "gamesLost": 6,
-    "goalsFor": 45,
-    "goalsAgainst": 43,
-    "goalsDifference": 2,
-    "team": {
-      "id": "xota-fs",
-      "name": "Xota FS",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/xota-fs.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 24,
-    "gamesPlayed": 17,
-    "gamesWon": 7,
-    "gamesDrawn": 3,
-    "gamesLost": 7,
-    "goalsFor": 60,
-    "goalsAgainst": 62,
-    "goalsDifference": -2,
-    "team": {
-      "id": "industrias-santa-coloma",
-      "name": "Industrias Santa Coloma",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/industrias-santa-coloma.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 23,
-    "gamesPlayed": 17,
-    "gamesWon": 6,
+    "points": 29,
+    "gamesPlayed": 19,
+    "gamesWon": 8,
     "gamesDrawn": 5,
     "gamesLost": 6,
-    "goalsFor": 58,
-    "goalsAgainst": 55,
-    "goalsDifference": 3,
+    "goalsFor": 66,
+    "goalsAgainst": 59,
+    "goalsDifference": 7,
     "team": {
       "id": "viña-albali-valdepeñas",
       "name": "Viña Albali Valdepeñas",
@@ -250,14 +175,89 @@
     }
   },
   {
-    "points": 21,
-    "gamesPlayed": 17,
-    "gamesWon": 6,
+    "points": 28,
+    "gamesPlayed": 19,
+    "gamesWon": 8,
+    "gamesDrawn": 4,
+    "gamesLost": 7,
+    "goalsFor": 61,
+    "goalsAgainst": 50,
+    "goalsDifference": 11,
+    "team": {
+      "id": "inter-fs",
+      "name": "Inter FS",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/inter-fs.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
+    "points": 27,
+    "gamesPlayed": 19,
+    "gamesWon": 8,
     "gamesDrawn": 3,
     "gamesLost": 8,
-    "goalsFor": 47,
+    "goalsFor": 67,
+    "goalsAgainst": 70,
+    "goalsDifference": -3,
+    "team": {
+      "id": "industrias-santa-coloma",
+      "name": "Industrias Santa Coloma",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/industrias-santa-coloma.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
+    "points": 25,
+    "gamesPlayed": 19,
+    "gamesWon": 7,
+    "gamesDrawn": 4,
+    "gamesLost": 8,
+    "goalsFor": 50,
     "goalsAgainst": 53,
-    "goalsDifference": -6,
+    "goalsDifference": -3,
+    "team": {
+      "id": "xota-fs",
+      "name": "Xota FS",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/xota-fs.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
+    "points": 21,
+    "gamesPlayed": 19,
+    "gamesWon": 6,
+    "gamesDrawn": 3,
+    "gamesLost": 10,
+    "goalsFor": 50,
+    "goalsAgainst": 62,
+    "goalsDifference": -12,
     "team": {
       "id": "córdoba-patrimonio-humanidad",
       "name": "Córdoba Patrimonio de la Humanidad",
@@ -275,14 +275,64 @@
     }
   },
   {
+    "points": 20,
+    "gamesPlayed": 19,
+    "gamesWon": 4,
+    "gamesDrawn": 8,
+    "gamesLost": 7,
+    "goalsFor": 54,
+    "goalsAgainst": 56,
+    "goalsDifference": -2,
+    "team": {
+      "id": "ribera-navarra-fs",
+      "name": "Ribera Navarra FS",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/ribera-navarra.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
+    "points": 20,
+    "gamesPlayed": 19,
+    "gamesWon": 6,
+    "gamesDrawn": 2,
+    "gamesLost": 11,
+    "goalsFor": 54,
+    "goalsAgainst": 79,
+    "goalsDifference": -25,
+    "team": {
+      "id": "real-betis-futsal",
+      "name": "Real Betis Futsal",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/betis.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
     "points": 19,
-    "gamesPlayed": 17,
+    "gamesPlayed": 19,
     "gamesWon": 5,
     "gamesDrawn": 4,
-    "gamesLost": 8,
-    "goalsFor": 64,
-    "goalsAgainst": 65,
-    "goalsDifference": -1,
+    "gamesLost": 10,
+    "goalsFor": 68,
+    "goalsAgainst": 73,
+    "goalsDifference": -5,
     "team": {
       "id": "peñíscola-fs",
       "name": "Peñíscola FS",
@@ -301,63 +351,13 @@
   },
   {
     "points": 17,
-    "gamesPlayed": 17,
+    "gamesPlayed": 19,
     "gamesWon": 5,
     "gamesDrawn": 2,
-    "gamesLost": 10,
-    "goalsFor": 50,
-    "goalsAgainst": 71,
-    "goalsDifference": -21,
-    "team": {
-      "id": "real-betis-futsal",
-      "name": "Real Betis Futsal",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/betis.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 14,
-    "gamesPlayed": 17,
-    "gamesWon": 2,
-    "gamesDrawn": 8,
-    "gamesLost": 7,
-    "goalsFor": 43,
-    "goalsAgainst": 53,
-    "goalsDifference": -10,
-    "team": {
-      "id": "ribera-navarra-fs",
-      "name": "Ribera Navarra FS",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/ribera-navarra.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 14,
-    "gamesPlayed": 17,
-    "gamesWon": 4,
-    "gamesDrawn": 2,
-    "gamesLost": 11,
-    "goalsFor": 48,
-    "goalsAgainst": 67,
-    "goalsDifference": -19,
+    "gamesLost": 12,
+    "goalsFor": 56,
+    "goalsAgainst": 73,
+    "goalsDifference": -17,
     "team": {
       "id": "noia-portus-apostoli",
       "name": "Noia Portus Apostoli",
@@ -375,14 +375,14 @@
     }
   },
   {
-    "points": 10,
-    "gamesPlayed": 17,
-    "gamesWon": 2,
+    "points": 16,
+    "gamesPlayed": 19,
+    "gamesWon": 4,
     "gamesDrawn": 4,
     "gamesLost": 11,
-    "goalsFor": 36,
-    "goalsAgainst": 62,
-    "goalsDifference": -26,
+    "goalsFor": 42,
+    "goalsAgainst": 66,
+    "goalsDifference": -24,
     "team": {
       "id": "alzira-fs",
       "name": "Alzira FS",
