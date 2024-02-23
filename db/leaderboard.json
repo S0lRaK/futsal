@@ -150,6 +150,31 @@
     }
   },
   {
+    "points": 30,
+    "gamesPlayed": 20,
+    "gamesWon": 9,
+    "gamesDrawn": 3,
+    "gamesLost": 8,
+    "goalsFor": 70,
+    "goalsAgainst": 71,
+    "goalsDifference": -1,
+    "team": {
+      "id": "industrias-santa-coloma",
+      "name": "Industrias Santa Coloma",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/industrias-santa-coloma.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
     "points": 29,
     "gamesPlayed": 19,
     "gamesWon": 8,
@@ -187,31 +212,6 @@
       "id": "inter-fs",
       "name": "Inter FS",
       "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/inter-fs.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 27,
-    "gamesPlayed": 19,
-    "gamesWon": 8,
-    "gamesDrawn": 3,
-    "gamesLost": 8,
-    "goalsFor": 67,
-    "goalsAgainst": 70,
-    "goalsDifference": -3,
-    "team": {
-      "id": "industrias-santa-coloma",
-      "name": "Industrias Santa Coloma",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/industrias-santa-coloma.svg",
       "web": "",
       "est": "",
       "president": "",
@@ -301,13 +301,13 @@
   },
   {
     "points": 20,
-    "gamesPlayed": 19,
+    "gamesPlayed": 20,
     "gamesWon": 6,
     "gamesDrawn": 2,
-    "gamesLost": 11,
-    "goalsFor": 54,
-    "goalsAgainst": 79,
-    "goalsDifference": -25,
+    "gamesLost": 12,
+    "goalsFor": 55,
+    "goalsAgainst": 82,
+    "goalsDifference": -27,
     "team": {
       "id": "real-betis-futsal",
       "name": "Real Betis Futsal",
