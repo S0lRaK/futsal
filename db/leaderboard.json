@@ -107,22 +107,7 @@
     "gamesLost": 5,
     "goalsFor": 73,
     "goalsAgainst": 58,
-    "goalsDifference": 15,
-    "team": {
-      "id": "jimbee-cartagena",
-      "name": "Jimbee Cartagena",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jimbee-cartagena.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
+    "goalsDifference": 15
   },
   {
     "points": 41,
