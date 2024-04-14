@@ -1,12 +1,12 @@
 [
   {
-    "points": 53,
-    "gamesPlayed": 25,
+    "points": 54,
+    "gamesPlayed": 26,
     "gamesWon": 17,
-    "gamesDrawn": 2,
+    "gamesDrawn": 3,
     "gamesLost": 6,
-    "goalsFor": 86,
-    "goalsAgainst": 67,
+    "goalsFor": 89,
+    "goalsAgainst": 70,
     "goalsDifference": 19,
     "team": {
       "id": "barça",
@@ -135,13 +135,13 @@
     "goalsDifference": 8
   },
   {
-    "points": 40,
-    "gamesPlayed": 25,
+    "points": 41,
+    "gamesPlayed": 26,
     "gamesWon": 12,
-    "gamesDrawn": 4,
+    "gamesDrawn": 5,
     "gamesLost": 9,
-    "goalsFor": 91,
-    "goalsAgainst": 86,
+    "goalsFor": 94,
+    "goalsAgainst": 89,
     "goalsDifference": 5,
     "team": {
       "id": "manzanares-fs",
