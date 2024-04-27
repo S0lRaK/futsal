@@ -1,13 +1,13 @@
 [
   {
-    "points": 57,
-    "gamesPlayed": 28,
-    "gamesWon": 18,
+    "points": 60,
+    "gamesPlayed": 29,
+    "gamesWon": 19,
     "gamesDrawn": 3,
     "gamesLost": 7,
-    "goalsFor": 99,
-    "goalsAgainst": 80,
-    "goalsDifference": 19,
+    "goalsFor": 102,
+    "goalsAgainst": 82,
+    "goalsDifference": 20,
     "team": {
       "id": "barça",
       "name": "Barça",
@@ -25,14 +25,14 @@
     }
   },
   {
-    "points": 52,
-    "gamesPlayed": 27,
-    "gamesWon": 15,
+    "points": 55,
+    "gamesPlayed": 28,
+    "gamesWon": 16,
     "gamesDrawn": 7,
     "gamesLost": 5,
-    "goalsFor": 102,
-    "goalsAgainst": 68,
-    "goalsDifference": 34,
+    "goalsFor": 105,
+    "goalsAgainst": 70,
+    "goalsDifference": 35,
     "team": {
       "id": "elpozo-murcia-costa-cálida",
       "name": "ElPozo Murcia Costa Cálida",
@@ -50,14 +50,39 @@
     }
   },
   {
+    "points": 51,
+    "gamesPlayed": 28,
+    "gamesWon": 16,
+    "gamesDrawn": 3,
+    "gamesLost": 9,
+    "goalsFor": 89,
+    "goalsAgainst": 66,
+    "goalsDifference": 23,
+    "team": {
+      "id": "jaén-fs",
+      "name": "Jaén FS",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jaen-fs.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
     "points": 50,
-    "gamesPlayed": 27,
+    "gamesPlayed": 28,
     "gamesWon": 15,
     "gamesDrawn": 5,
-    "gamesLost": 7,
-    "goalsFor": 103,
-    "goalsAgainst": 68,
-    "goalsDifference": 35,
+    "gamesLost": 8,
+    "goalsFor": 105,
+    "goalsAgainst": 71,
+    "goalsDifference": 34,
     "team": {
       "id": "inter-fs",
       "name": "Inter FS",
@@ -76,38 +101,13 @@
   },
   {
     "points": 48,
-    "gamesPlayed": 27,
+    "gamesPlayed": 29,
     "gamesWon": 15,
     "gamesDrawn": 3,
-    "gamesLost": 9,
-    "goalsFor": 87,
-    "goalsAgainst": 65,
-    "goalsDifference": 22,
-    "team": {
-      "id": "jaén-fs",
-      "name": "Jaén FS",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/jaen-fs.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 48,
-    "gamesPlayed": 28,
-    "gamesWon": 15,
-    "gamesDrawn": 3,
-    "gamesLost": 10,
-    "goalsFor": 105,
-    "goalsAgainst": 94,
-    "goalsDifference": 11,
+    "gamesLost": 11,
+    "goalsFor": 106,
+    "goalsAgainst": 96,
+    "goalsDifference": 10,
     "team": {
       "id": "mallorca-palma-futsal",
       "name": "Mallorca Palma Futsal",
@@ -135,14 +135,14 @@
     "goalsDifference": 6
   },
   {
-    "points": 42,
-    "gamesPlayed": 27,
-    "gamesWon": 12,
+    "points": 45,
+    "gamesPlayed": 28,
+    "gamesWon": 13,
     "gamesDrawn": 6,
     "gamesLost": 9,
-    "goalsFor": 95,
-    "goalsAgainst": 90,
-    "goalsDifference": 5,
+    "goalsFor": 101,
+    "goalsAgainst": 95,
+    "goalsDifference": 6,
     "team": {
       "id": "manzanares-fs",
       "name": "Quesos Hidalgo Manzanares FS",
@@ -286,13 +286,13 @@
   },
   {
     "points": 27,
-    "gamesPlayed": 27,
+    "gamesPlayed": 28,
     "gamesWon": 8,
     "gamesDrawn": 3,
-    "gamesLost": 16,
-    "goalsFor": 87,
-    "goalsAgainst": 100,
-    "goalsDifference": -13,
+    "gamesLost": 17,
+    "goalsFor": 92,
+    "goalsAgainst": 106,
+    "goalsDifference": -14,
     "team": {
       "id": "noia-portus-apostoli",
       "name": "Noia Portus Apostoli",
@@ -311,13 +311,13 @@
   },
   {
     "points": 24,
-    "gamesPlayed": 27,
+    "gamesPlayed": 28,
     "gamesWon": 5,
     "gamesDrawn": 9,
-    "gamesLost": 13,
-    "goalsFor": 71,
-    "goalsAgainst": 87,
-    "goalsDifference": -16,
+    "gamesLost": 14,
+    "goalsFor": 73,
+    "goalsAgainst": 90,
+    "goalsDifference": -17,
     "team": {
       "id": "ribera-navarra-fs",
       "name": "Ribera Navarra FS",
