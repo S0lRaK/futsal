@@ -125,14 +125,14 @@
     }
   },
   {
-    "points": 45,
-    "gamesPlayed": 28,
-    "gamesWon": 12,
+    "points": 48,
+    "gamesPlayed": 29,
+    "gamesWon": 13,
     "gamesDrawn": 9,
     "gamesLost": 7,
-    "goalsFor": 87,
+    "goalsFor": 94,
     "goalsAgainst": 81,
-    "goalsDifference": 6
+    "goalsDifference": 13
   },
   {
     "points": 45,
@@ -210,14 +210,39 @@
     }
   },
   {
-    "points": 33,
+    "points": 34,
     "gamesPlayed": 28,
+    "gamesWon": 10,
+    "gamesDrawn": 4,
+    "gamesLost": 14,
+    "goalsFor": 80,
+    "goalsAgainst": 93,
+    "goalsDifference": -13,
+    "team": {
+      "id": "córdoba-patrimonio-humanidad",
+      "name": "Córdoba Patrimonio de la Humanidad",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/cordoba.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
+    "points": 33,
+    "gamesPlayed": 29,
     "gamesWon": 8,
     "gamesDrawn": 9,
-    "gamesLost": 11,
-    "goalsFor": 105,
-    "goalsAgainst": 100,
-    "goalsDifference": 5,
+    "gamesLost": 12,
+    "goalsFor": 109,
+    "goalsAgainst": 105,
+    "goalsDifference": 4,
     "team": {
       "id": "peñíscola-fs",
       "name": "Peñíscola FS",
@@ -236,42 +261,17 @@
   },
   {
     "points": 31,
-    "gamesPlayed": 27,
+    "gamesPlayed": 28,
     "gamesWon": 8,
     "gamesDrawn": 7,
-    "gamesLost": 12,
+    "gamesLost": 13,
     "goalsFor": 71,
-    "goalsAgainst": 83,
-    "goalsDifference": -12,
+    "goalsAgainst": 90,
+    "goalsDifference": -19,
     "team": {
       "id": "xota-fs",
       "name": "Xota FS",
       "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/xota-fs.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 31,
-    "gamesPlayed": 27,
-    "gamesWon": 9,
-    "gamesDrawn": 4,
-    "gamesLost": 14,
-    "goalsFor": 75,
-    "goalsAgainst": 89,
-    "goalsDifference": -14,
-    "team": {
-      "id": "córdoba-patrimonio-humanidad",
-      "name": "Córdoba Patrimonio de la Humanidad",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/cordoba.svg",
       "web": "",
       "est": "",
       "president": "",
