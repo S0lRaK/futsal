@@ -210,6 +210,31 @@
     }
   },
   {
+    "points": 36,
+    "gamesPlayed": 30,
+    "gamesWon": 9,
+    "gamesDrawn": 9,
+    "gamesLost": 12,
+    "goalsFor": 116,
+    "goalsAgainst": 107,
+    "goalsDifference": 9,
+    "team": {
+      "id": "peñíscola-fs",
+      "name": "Peñíscola FS",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/peniscola.webp",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
     "points": 34,
     "gamesPlayed": 29,
     "gamesWon": 10,
@@ -236,42 +261,17 @@
   },
   {
     "points": 34,
-    "gamesPlayed": 29,
+    "gamesPlayed": 30,
     "gamesWon": 9,
     "gamesDrawn": 7,
-    "gamesLost": 13,
-    "goalsFor": 74,
-    "goalsAgainst": 92,
-    "goalsDifference": -18,
+    "gamesLost": 14,
+    "goalsFor": 76,
+    "goalsAgainst": 99,
+    "goalsDifference": -23,
     "team": {
       "id": "xota-fs",
       "name": "Xota FS",
       "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/xota-fs.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 33,
-    "gamesPlayed": 29,
-    "gamesWon": 8,
-    "gamesDrawn": 9,
-    "gamesLost": 12,
-    "goalsFor": 109,
-    "goalsAgainst": 105,
-    "goalsDifference": 4,
-    "team": {
-      "id": "peñíscola-fs",
-      "name": "Peñíscola FS",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/peniscola.webp",
       "web": "",
       "est": "",
       "president": "",
