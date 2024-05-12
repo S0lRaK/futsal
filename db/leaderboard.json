@@ -1,13 +1,13 @@
 [
   {
-    "points": 60,
-    "gamesPlayed": 29,
-    "gamesWon": 19,
+    "points": 63,
+    "gamesPlayed": 30,
+    "gamesWon": 20,
     "gamesDrawn": 3,
     "gamesLost": 7,
-    "goalsFor": 102,
-    "goalsAgainst": 82,
-    "goalsDifference": 20,
+    "goalsFor": 106,
+    "goalsAgainst": 85,
+    "goalsDifference": 21,
     "team": {
       "id": "barça",
       "name": "Barça",
@@ -25,14 +25,14 @@
     }
   },
   {
-    "points": 58,
-    "gamesPlayed": 29,
-    "gamesWon": 17,
+    "points": 61,
+    "gamesPlayed": 30,
+    "gamesWon": 18,
     "gamesDrawn": 7,
     "gamesLost": 5,
-    "goalsFor": 113,
-    "goalsAgainst": 75,
-    "goalsDifference": 38,
+    "goalsFor": 117,
+    "goalsAgainst": 78,
+    "goalsDifference": 39,
     "team": {
       "id": "elpozo-murcia-costa-cálida",
       "name": "ElPozo Murcia Costa Cálida",
@@ -51,13 +51,13 @@
   },
   {
     "points": 54,
-    "gamesPlayed": 29,
+    "gamesPlayed": 30,
     "gamesWon": 17,
     "gamesDrawn": 3,
-    "gamesLost": 9,
-    "goalsFor": 95,
-    "goalsAgainst": 69,
-    "goalsDifference": 26,
+    "gamesLost": 10,
+    "goalsFor": 97,
+    "goalsAgainst": 75,
+    "goalsDifference": 22,
     "team": {
       "id": "jaén-fs",
       "name": "Jaén FS",
@@ -75,14 +75,14 @@
     }
   },
   {
-    "points": 50,
-    "gamesPlayed": 29,
-    "gamesWon": 15,
+    "points": 53,
+    "gamesPlayed": 30,
+    "gamesWon": 16,
     "gamesDrawn": 5,
     "gamesLost": 9,
-    "goalsFor": 106,
+    "goalsFor": 111,
     "goalsAgainst": 74,
-    "goalsDifference": 32,
+    "goalsDifference": 37,
     "team": {
       "id": "inter-fs",
       "name": "Inter FS",
@@ -100,14 +100,24 @@
     }
   },
   {
+    "points": 49,
+    "gamesPlayed": 30,
+    "gamesWon": 13,
+    "gamesDrawn": 10,
+    "gamesLost": 7,
+    "goalsFor": 100,
+    "goalsAgainst": 87,
+    "goalsDifference": 13
+  },
+  {
     "points": 48,
-    "gamesPlayed": 29,
+    "gamesPlayed": 30,
     "gamesWon": 15,
     "gamesDrawn": 3,
-    "gamesLost": 11,
-    "goalsFor": 106,
-    "goalsAgainst": 96,
-    "goalsDifference": 10,
+    "gamesLost": 12,
+    "goalsFor": 109,
+    "goalsAgainst": 102,
+    "goalsDifference": 7,
     "team": {
       "id": "mallorca-palma-futsal",
       "name": "Mallorca Palma Futsal",
@@ -125,48 +135,13 @@
     }
   },
   {
-    "points": 48,
-    "gamesPlayed": 29,
-    "gamesWon": 13,
-    "gamesDrawn": 9,
-    "gamesLost": 7,
-    "goalsFor": 94,
-    "goalsAgainst": 81,
-    "goalsDifference": 13
-  },
-  {
-    "points": 45,
-    "gamesPlayed": 29,
-    "gamesWon": 13,
-    "gamesDrawn": 6,
-    "gamesLost": 10,
-    "goalsFor": 104,
-    "goalsAgainst": 99,
-    "goalsDifference": 5,
-    "team": {
-      "id": "manzanares-fs",
-      "name": "Quesos Hidalgo Manzanares FS",
-      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/manzanares-fs.svg",
-      "web": "",
-      "est": "",
-      "president": "",
-      "stadium": {
-        "name": "",
-        "capacity": ""
-      },
-      "coach": "",
-      "players": [],
-      "social": []
-    }
-  },
-  {
-    "points": 45,
-    "gamesPlayed": 29,
+    "points": 46,
+    "gamesPlayed": 30,
     "gamesWon": 12,
-    "gamesDrawn": 9,
+    "gamesDrawn": 10,
     "gamesLost": 8,
-    "goalsFor": 97,
-    "goalsAgainst": 85,
+    "goalsFor": 103,
+    "goalsAgainst": 91,
     "goalsDifference": 12,
     "team": {
       "id": "viña-albali-valdepeñas",
@@ -185,14 +160,39 @@
     }
   },
   {
-    "points": 41,
-    "gamesPlayed": 29,
-    "gamesWon": 12,
+    "points": 45,
+    "gamesPlayed": 30,
+    "gamesWon": 13,
+    "gamesDrawn": 6,
+    "gamesLost": 11,
+    "goalsFor": 107,
+    "goalsAgainst": 103,
+    "goalsDifference": 4,
+    "team": {
+      "id": "manzanares-fs",
+      "name": "Quesos Hidalgo Manzanares FS",
+      "logo": "https://futsal-api.carlosjgc.workers.dev/static/logos/manzanares-fs.svg",
+      "web": "",
+      "est": "",
+      "president": "",
+      "stadium": {
+        "name": "",
+        "capacity": ""
+      },
+      "coach": "",
+      "players": [],
+      "social": []
+    }
+  },
+  {
+    "points": 44,
+    "gamesPlayed": 30,
+    "gamesWon": 13,
     "gamesDrawn": 5,
     "gamesLost": 12,
-    "goalsFor": 101,
-    "goalsAgainst": 102,
-    "goalsDifference": -1,
+    "goalsFor": 107,
+    "goalsAgainst": 104,
+    "goalsDifference": 3,
     "team": {
       "id": "industrias-santa-coloma",
       "name": "Industrias Santa Coloma",
@@ -236,13 +236,13 @@
   },
   {
     "points": 34,
-    "gamesPlayed": 29,
+    "gamesPlayed": 30,
     "gamesWon": 10,
     "gamesDrawn": 4,
-    "gamesLost": 15,
-    "goalsFor": 82,
-    "goalsAgainst": 96,
-    "goalsDifference": -14,
+    "gamesLost": 16,
+    "goalsFor": 85,
+    "goalsAgainst": 100,
+    "goalsDifference": -15,
     "team": {
       "id": "córdoba-patrimonio-humanidad",
       "name": "Córdoba Patrimonio de la Humanidad",
@@ -286,13 +286,13 @@
   },
   {
     "points": 30,
-    "gamesPlayed": 29,
+    "gamesPlayed": 30,
     "gamesWon": 9,
     "gamesDrawn": 3,
-    "gamesLost": 17,
+    "gamesLost": 18,
     "goalsFor": 96,
-    "goalsAgainst": 108,
-    "goalsDifference": -12,
+    "goalsAgainst": 113,
+    "goalsDifference": -17,
     "team": {
       "id": "noia-portus-apostoli",
       "name": "Noia Portus Apostoli",
@@ -310,14 +310,14 @@
     }
   },
   {
-    "points": 24,
-    "gamesPlayed": 29,
-    "gamesWon": 5,
+    "points": 27,
+    "gamesPlayed": 30,
+    "gamesWon": 6,
     "gamesDrawn": 9,
     "gamesLost": 15,
-    "goalsFor": 76,
-    "goalsAgainst": 96,
-    "goalsDifference": -20,
+    "goalsFor": 82,
+    "goalsAgainst": 99,
+    "goalsDifference": -17,
     "team": {
       "id": "ribera-navarra-fs",
       "name": "Ribera Navarra FS",
@@ -335,13 +335,13 @@
     }
   },
   {
-    "points": 24,
-    "gamesPlayed": 29,
+    "points": 25,
+    "gamesPlayed": 30,
     "gamesWon": 7,
-    "gamesDrawn": 3,
+    "gamesDrawn": 4,
     "gamesLost": 19,
-    "goalsFor": 75,
-    "goalsAgainst": 126,
+    "goalsFor": 78,
+    "goalsAgainst": 129,
     "goalsDifference": -51,
     "team": {
       "id": "real-betis-futsal",
@@ -360,13 +360,13 @@
     }
   },
   {
-    "points": 23,
-    "gamesPlayed": 29,
+    "points": 24,
+    "gamesPlayed": 30,
     "gamesWon": 6,
-    "gamesDrawn": 5,
+    "gamesDrawn": 6,
     "gamesLost": 18,
-    "goalsFor": 62,
-    "goalsAgainst": 106,
+    "goalsFor": 65,
+    "goalsAgainst": 109,
     "goalsDifference": -44,
     "team": {
       "id": "alzira-fs",
